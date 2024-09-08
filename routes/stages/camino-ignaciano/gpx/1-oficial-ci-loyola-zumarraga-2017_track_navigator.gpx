@@ -1,0 +1,903 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Anartz Mugika Ledo - https://www.anartz-mugika.com">
+<metadata>
+<name>1-oficial-ci-loyola-zumarraga-2017</name>
+<desc>Track generado en Track Navigator</desc>
+<author>
+<name>Anartz Mugika Ledo</name>
+<email>mugan86@gmail.com</email>
+<link href="https://anartz-mugika.com/">
+<text>Anartz Mugika Ledo's Website</text>
+</link>
+</author>
+</metadata>
+<wpt lat="43.1741508" lon="-2.2812413">
+<name>Bar</name>
+<sym>Waypoint</sym>
+<cmt>km 0</cmt>
+</wpt>
+<wpt lat="43.1743413" lon="-2.2812201">
+<name>WC Públicos</name>
+<sym>Waypoint</sym>
+<cmt>km 0</cmt>
+</wpt>
+<wpt lat="43.1744288" lon="-2.2812972">
+<name>WC Públicos</name>
+<sym>Waypoint</sym>
+<cmt>km 0</cmt>
+</wpt>
+<wpt lat="43.1748968" lon="-2.2808661">
+<name>Agua Potable</name>
+<sym>Water Source</sym>
+<cmt>km 0</cmt>
+</wpt>
+<wpt lat="43.1749033" lon="-2.2830926">
+<name>WC Públicos</name>
+<sym>Waypoint</sym>
+<cmt>km 0</cmt>
+</wpt>
+<wpt lat="43.176013" lon="-2.2819724">
+<name>Restaurante</name>
+<sym>Waypoint</sym>
+<cmt>km 0.06</cmt>
+</wpt>
+<wpt lat="43.174969" lon="-2.2840393">
+<name>Paradas de Bus</name>
+<sym>Waypoint</sym>
+<cmt>km 0.06</cmt>
+</wpt>
+<wpt lat="43.1750934" lon="-2.2854808">
+<name>Agua Potable</name>
+<sym>Water Source</sym>
+<cmt>km 0.18</cmt>
+</wpt>
+<wpt lat="43.1743345" lon="-2.2862072">
+<name>Lugar para comer al Aire Libre</name>
+<sym>Waypoint</sym>
+<cmt>km 0.33</cmt>
+</wpt>
+<wpt lat="43.1743904" lon="-2.2861014">
+<name>Lugar para comer al Aire Libre</name>
+<sym>Waypoint</sym>
+<cmt>km 0.33</cmt>
+</wpt>
+<wpt lat="43.1743306" lon="-2.2860551">
+<name>Lugar para comer al Aire Libre</name>
+<sym>Waypoint</sym>
+<cmt>km 0.33</cmt>
+</wpt>
+<wpt lat="43.1742824" lon="-2.2861503">
+<name>Lugar para comer al Aire Libre</name>
+<sym>Waypoint</sym>
+<cmt>km 0.33</cmt>
+</wpt>
+<wpt lat="43.1728957" lon="-2.2935422">
+<name>Agua Potable</name>
+<sym>Water Source</sym>
+<cmt>km 1.1</cmt>
+</wpt>
+<wpt lat="43.17275" lon="-2.2928602">
+<name>Agua Potable</name>
+<sym>Water Source</sym>
+<cmt>km 1.1</cmt>
+</wpt>
+<wpt lat="43.1720027" lon="-2.2996275">
+<name>Agua Potable</name>
+<sym>Water Source</sym>
+<cmt>km 1.47</cmt>
+</wpt>
+<wpt lat="43.1701659" lon="-2.3020072">
+<name>Agua Potable</name>
+<sym>Water Source</sym>
+<cmt>km 1.77</cmt>
+</wpt>
+<wpt lat="43.1705714" lon="-2.3050891">
+<name>Agua Potable</name>
+<sym>Water Source</sym>
+<cmt>km 2.09</cmt>
+</wpt>
+<wpt lat="43.1747108" lon="-2.3058183">
+<name>Agua Potable</name>
+<sym>Water Source</sym>
+<cmt>km 2.5</cmt>
+</wpt>
+<wpt lat="43.1747578" lon="-2.3052981">
+<name>Local comida rápida</name>
+<sym>Waypoint</sym>
+<cmt>km 2.5</cmt>
+</wpt>
+<wpt lat="43.1767621" lon="-2.3081213">
+<name>Agua Potable</name>
+<sym>Water Source</sym>
+<cmt>km 2.89</cmt>
+</wpt>
+<wpt lat="43.1768697" lon="-2.3086467">
+<name>Agua Potable</name>
+<sym>Water Source</sym>
+<cmt>km 2.89</cmt>
+</wpt>
+<wpt lat="43.1763318" lon="-2.30822">
+<name>Agua Potable</name>
+<sym>Water Source</sym>
+<cmt>km 2.89</cmt>
+</wpt>
+<wpt lat="43.1789425" lon="-2.3094733">
+<name>Restaurante</name>
+<sym>Waypoint</sym>
+<cmt>km 3.13</cmt>
+</wpt>
+<wpt lat="43.1796014" lon="-2.3090158">
+<name>Agua Potable</name>
+<sym>Water Source</sym>
+<cmt>km 3.13</cmt>
+</wpt>
+<wpt lat="43.1789902" lon="-2.310084">
+<name>Agua Potable</name>
+<sym>Water Source</sym>
+<cmt>km 3.13</cmt>
+</wpt>
+<wpt lat="43.1793428" lon="-2.3095644">
+<name>Agua Potable</name>
+<sym>Water Source</sym>
+<cmt>km 3.13</cmt>
+</wpt>
+<wpt lat="43.1786856" lon="-2.3092975">
+<name>Agua Potable</name>
+<sym>Water Source</sym>
+<cmt>km 3.13</cmt>
+</wpt>
+<wpt lat="43.1770605" lon="-2.3090391">
+<name>Paradas de Bus</name>
+<sym>Waypoint</sym>
+<cmt>km 3.13</cmt>
+</wpt>
+<wpt lat="43.1781662" lon="-2.3084912">
+<name>Paradas de Bus</name>
+<sym>Waypoint</sym>
+<cmt>km 3.13</cmt>
+</wpt>
+<wpt lat="43.1785188" lon="-2.310882">
+<name>Bar</name>
+<sym>Waypoint</sym>
+<cmt>km 3.24</cmt>
+</wpt>
+<wpt lat="43.1779935" lon="-2.3111311">
+<name>Agua Potable</name>
+<sym>Water Source</sym>
+<cmt>km 3.31</cmt>
+</wpt>
+<wpt lat="43.17751" lon="-2.3124397">
+<name>Agua Potable</name>
+<sym>Water Source</sym>
+<cmt>km 3.45</cmt>
+</wpt>
+<wpt lat="43.1782836" lon="-2.3122573">
+<name>Agua Potable</name>
+<sym>Water Source</sym>
+<cmt>km 3.45</cmt>
+</wpt>
+<wpt lat="43.1767599" lon="-2.3112705">
+<name>Bar</name>
+<sym>Waypoint</sym>
+<cmt>km 3.54</cmt>
+</wpt>
+<wpt lat="43.1766651" lon="-2.3134448">
+<name>Agua Potable</name>
+<sym>Water Source</sym>
+<cmt>km 3.54</cmt>
+</wpt>
+<wpt lat="43.1773026" lon="-2.3142161">
+<name>Restaurante</name>
+<sym>Waypoint</sym>
+<cmt>km 3.54</cmt>
+</wpt>
+<wpt lat="43.1762226" lon="-2.3128462">
+<name>Paradas de Bus</name>
+<sym>Waypoint</sym>
+<cmt>km 3.54</cmt>
+</wpt>
+<wpt lat="43.1763394" lon="-2.3137499">
+<name>Agua Potable</name>
+<sym>Water Source</sym>
+<cmt>km 3.69</cmt>
+</wpt>
+<wpt lat="43.1761322" lon="-2.3129183">
+<name>Paradas de Bus</name>
+<sym>Waypoint</sym>
+<cmt>km 3.69</cmt>
+</wpt>
+<wpt lat="43.1754531" lon="-2.3180365">
+<name>Paradas de Bus</name>
+<sym>Waypoint</sym>
+<cmt>km 4.18</cmt>
+</wpt>
+<wpt lat="43.1674393" lon="-2.3263019">
+<name>Agua Potable</name>
+<sym>Water Source</sym>
+<cmt>km 5.38</cmt>
+</wpt>
+<wpt lat="43.1646407" lon="-2.3295264">
+<name>Agua Potable</name>
+<sym>Water Source</sym>
+<cmt>km 5.62</cmt>
+</wpt>
+<wpt lat="43.1351044" lon="-2.3519047">
+<name>Restaurante</name>
+<sym>Waypoint</sym>
+<cmt>km 9.84</cmt>
+</wpt>
+<wpt lat="43.1333753" lon="-2.3514403">
+<name>Agua Potable</name>
+<sym>Water Source</sym>
+<cmt>km 9.96</cmt>
+</wpt>
+<wpt lat="43.1333763" lon="-2.3507939">
+<name>Agua Potable</name>
+<sym>Water Source</sym>
+<cmt>km 9.96</cmt>
+</wpt>
+<wpt lat="43.1329011" lon="-2.352007">
+<name>Restaurante</name>
+<sym>Waypoint</sym>
+<cmt>km 9.96</cmt>
+</wpt>
+<wpt lat="43.1029748" lon="-2.3168825">
+<name>Agua Potable</name>
+<sym>Water Source</sym>
+<cmt>km 15.37</cmt>
+</wpt>
+<wpt lat="43.0995496" lon="-2.3171193">
+<name>Agua Potable</name>
+<sym>Water Source</sym>
+<cmt>km 15.76</cmt>
+</wpt>
+<wpt lat="43.1000763" lon="-2.3156847">
+<name>Restaurante</name>
+<sym>Waypoint</sym>
+<cmt>km 15.88</cmt>
+</wpt>
+<wpt lat="43.0992157" lon="-2.3166821">
+<name>Paradas de Bus</name>
+<sym>Waypoint</sym>
+<cmt>km 15.88</cmt>
+</wpt>
+<wpt lat="43.0991364" lon="-2.316493">
+<name>Agua Potable</name>
+<sym>Water Source</sym>
+<cmt>km 15.88</cmt>
+</wpt>
+<wpt lat="43.0955008" lon="-2.3135235">
+<name>WC Públicos</name>
+<sym>Waypoint</sym>
+<cmt>km 16.32</cmt>
+</wpt>
+<wpt lat="43.0953997" lon="-2.3134884">
+<name>Agua Potable</name>
+<sym>Water Source</sym>
+<cmt>km 16.32</cmt>
+</wpt>
+<wpt lat="43.0945881" lon="-2.3142979">
+<name>Agua Potable</name>
+<sym>Water Source</sym>
+<cmt>km 16.42</cmt>
+</wpt>
+<wpt lat="43.0939405" lon="-2.3128849">
+<name>Agua Potable</name>
+<sym>Water Source</sym>
+<cmt>km 16.5</cmt>
+</wpt>
+<wpt lat="43.0935748" lon="-2.3119784">
+<name>Agua Potable</name>
+<sym>Water Source</sym>
+<cmt>km 16.56</cmt>
+</wpt>
+<wpt lat="43.0935108" lon="-2.3123399">
+<name>Agua Potable</name>
+<sym>Water Source</sym>
+<cmt>km 16.56</cmt>
+</wpt>
+<wpt lat="43.0931561" lon="-2.3143276">
+<name>Agua Potable</name>
+<sym>Water Source</sym>
+<cmt>km 16.68</cmt>
+</wpt>
+<wpt lat="43.0913081" lon="-2.3148268">
+<name>Agua Potable</name>
+<sym>Water Source</sym>
+<cmt>km 16.89</cmt>
+</wpt>
+<wpt lat="43.0913776" lon="-2.3144169">
+<name>Café</name>
+<sym>Waypoint</sym>
+<cmt>km 16.89</cmt>
+</wpt>
+<wpt lat="43.090254" lon="-2.3136823">
+<name>Agua Potable</name>
+<sym>Water Source</sym>
+<cmt>km 16.93</cmt>
+</wpt>
+<wpt lat="43.0902117" lon="-2.3126406">
+<name>Agua Potable</name>
+<sym>Water Source</sym>
+<cmt>km 16.93</cmt>
+</wpt>
+<wpt lat="43.0897628" lon="-2.3132114">
+<name>Restaurante</name>
+<sym>Waypoint</sym>
+<cmt>km 17.07</cmt>
+</wpt>
+<wpt lat="43.0915411" lon="-2.3155025">
+<name>Paradas de Bus</name>
+<sym>Waypoint</sym>
+<cmt>km 17.07</cmt>
+</wpt>
+<wpt lat="43.0896157" lon="-2.3150012">
+<name>Agua Potable</name>
+<sym>Water Source</sym>
+<cmt>km 17.07</cmt>
+</wpt>
+<wpt lat="43.0904025" lon="-2.3151769">
+<name>Agua Potable</name>
+<sym>Water Source</sym>
+<cmt>km 17.07</cmt>
+</wpt>
+<wpt lat="43.0909312" lon="-2.3156256">
+<name>Agua Potable</name>
+<sym>Water Source</sym>
+<cmt>km 17.07</cmt>
+</wpt>
+<wpt lat="43.0904126" lon="-2.3159385">
+<name>Lugar para comer al Aire Libre</name>
+<sym>Waypoint</sym>
+<cmt>km 17.07</cmt>
+</wpt>
+<wpt lat="43.0904448" lon="-2.316077">
+<name>Lugar para comer al Aire Libre</name>
+<sym>Waypoint</sym>
+<cmt>km 17.07</cmt>
+</wpt>
+<wpt lat="43.0903586" lon="-2.3160461">
+<name>Lugar para comer al Aire Libre</name>
+<sym>Waypoint</sym>
+<cmt>km 17.07</cmt>
+</wpt>
+<wpt lat="43.0903889" lon="-2.3161816">
+<name>Lugar para comer al Aire Libre</name>
+<sym>Waypoint</sym>
+<cmt>km 17.07</cmt>
+</wpt>
+<wpt lat="43.0904976" lon="-2.31596">
+<name>Lugar para comer al Aire Libre</name>
+<sym>Waypoint</sym>
+<cmt>km 17.07</cmt>
+</wpt>
+<wpt lat="43.0905462" lon="-2.3158628">
+<name>Lugar para comer al Aire Libre</name>
+<sym>Waypoint</sym>
+<cmt>km 17.07</cmt>
+</wpt>
+<trk>
+<trkseg>
+<trkpt lat="43.174578" lon="-2.282152">
+<ele>92.846</ele>
+<time>2024-09-08T17:33:04.550Z</time>
+</trkpt>
+<trkpt lat="43.174954" lon="-2.282624">
+<ele>93.288</ele>
+<time>2024-09-08T17:33:44.550Z</time>
+</trkpt>
+<trkpt lat="43.175087" lon="-2.282774">
+<ele>92.116</ele>
+<time>2024-09-08T17:34:24.550Z</time>
+</trkpt>
+<trkpt lat="43.175134" lon="-2.283182">
+<ele>90.608</ele>
+<time>2024-09-08T17:35:04.550Z</time>
+</trkpt>
+<trkpt lat="43.17493" lon="-2.28404">
+<ele>91.086</ele>
+<time>2024-09-08T17:35:44.550Z</time>
+</trkpt>
+<trkpt lat="43.17439" lon="-2.285682">
+<ele>91.965</ele>
+<time>2024-09-08T17:36:24.550Z</time>
+</trkpt>
+<trkpt lat="43.173819" lon="-2.286766">
+<ele>91.152</ele>
+<time>2024-09-08T17:37:04.550Z</time>
+</trkpt>
+<trkpt lat="43.173217" lon="-2.287227">
+<ele>92.212</ele>
+<time>2024-09-08T17:37:44.550Z</time>
+</trkpt>
+<trkpt lat="43.172473" lon="-2.288021">
+<ele>96.291</ele>
+<time>2024-09-08T17:38:24.550Z</time>
+</trkpt>
+<trkpt lat="43.172677" lon="-2.290982">
+<ele>100.646</ele>
+<time>2024-09-08T17:39:04.550Z</time>
+</trkpt>
+<trkpt lat="43.172841" lon="-2.293986">
+<ele>97.921</ele>
+<time>2024-09-08T17:39:44.550Z</time>
+</trkpt>
+<trkpt lat="43.172943" lon="-2.297001">
+<ele>104.287</ele>
+<time>2024-09-08T17:40:24.550Z</time>
+</trkpt>
+<trkpt lat="43.172857" lon="-2.298524">
+<ele>102.269</ele>
+<time>2024-09-08T17:41:04.550Z</time>
+</trkpt>
+<trkpt lat="43.172442" lon="-2.299275">
+<ele>102.904</ele>
+<time>2024-09-08T17:41:44.550Z</time>
+</trkpt>
+<trkpt lat="43.170768" lon="-2.300767">
+<ele>103.124</ele>
+<time>2024-09-08T17:42:24.550Z</time>
+</trkpt>
+<trkpt lat="43.170306" lon="-2.301464">
+<ele>103.408</ele>
+<time>2024-09-08T17:43:04.550Z</time>
+</trkpt>
+<trkpt lat="43.170118" lon="-2.304404">
+<ele>111.338</ele>
+<time>2024-09-08T17:43:44.550Z</time>
+</trkpt>
+<trkpt lat="43.170306" lon="-2.304951">
+<ele>104.657</ele>
+<time>2024-09-08T17:44:24.550Z</time>
+</trkpt>
+<trkpt lat="43.171433" lon="-2.305208">
+<ele>103.724</ele>
+<time>2024-09-08T17:45:04.550Z</time>
+</trkpt>
+<trkpt lat="43.172419" lon="-2.304994">
+<ele>104.764</ele>
+<time>2024-09-08T17:45:44.550Z</time>
+</trkpt>
+<trkpt lat="43.173545" lon="-2.30538">
+<ele>104.343</ele>
+<time>2024-09-08T17:46:24.550Z</time>
+</trkpt>
+<trkpt lat="43.174445" lon="-2.30538">
+<ele>105.178</ele>
+<time>2024-09-08T17:47:04.550Z</time>
+</trkpt>
+<trkpt lat="43.174789" lon="-2.305241">
+<ele>106.973</ele>
+<time>2024-09-08T17:47:44.550Z</time>
+</trkpt>
+<trkpt lat="43.176589" lon="-2.306989">
+<ele>108.369</ele>
+<time>2024-09-08T17:48:24.550Z</time>
+</trkpt>
+<trkpt lat="43.178357" lon="-2.308813">
+<ele>111.086</ele>
+<time>2024-09-08T17:49:04.553Z</time>
+</trkpt>
+<trkpt lat="43.179124" lon="-2.309479">
+<ele>110.86</ele>
+<time>2024-09-08T17:49:44.553Z</time>
+</trkpt>
+<trkpt lat="43.178905" lon="-2.310294">
+<ele>112.126</ele>
+<time>2024-09-08T17:50:24.553Z</time>
+</trkpt>
+<trkpt lat="43.178138" lon="-2.311689">
+<ele>113.408</ele>
+<time>2024-09-08T17:51:04.553Z</time>
+</trkpt>
+<trkpt lat="43.177473" lon="-2.312407">
+<ele>113.76</ele>
+<time>2024-09-08T17:51:44.553Z</time>
+</trkpt>
+<trkpt lat="43.176386" lon="-2.313545">
+<ele>114.079</ele>
+<time>2024-09-08T17:52:24.553Z</time>
+</trkpt>
+<trkpt lat="43.176206" lon="-2.314392">
+<ele>114.626</ele>
+<time>2024-09-08T17:53:04.553Z</time>
+</trkpt>
+<trkpt lat="43.175877" lon="-2.314564">
+<ele>115.146</ele>
+<time>2024-09-08T17:53:44.553Z</time>
+</trkpt>
+<trkpt lat="43.175165" lon="-2.314703">
+<ele>117.275</ele>
+<time>2024-09-08T17:54:24.553Z</time>
+</trkpt>
+<trkpt lat="43.175055" lon="-2.314135">
+<ele>117.66</ele>
+<time>2024-09-08T17:55:04.553Z</time>
+</trkpt>
+<trkpt lat="43.174962" lon="-2.314446">
+<ele>118.855</ele>
+<time>2024-09-08T17:55:44.553Z</time>
+</trkpt>
+<trkpt lat="43.174907" lon="-2.317182">
+<ele>123.581</ele>
+<time>2024-09-08T17:56:24.553Z</time>
+</trkpt>
+<trkpt lat="43.17432" lon="-2.318169">
+<ele>121.333</ele>
+<time>2024-09-08T17:57:04.553Z</time>
+</trkpt>
+<trkpt lat="43.173272" lon="-2.318566">
+<ele>123.723</ele>
+<time>2024-09-08T17:57:44.553Z</time>
+</trkpt>
+<trkpt lat="43.172935" lon="-2.318641">
+<ele>123.415</ele>
+<time>2024-09-08T17:58:24.553Z</time>
+</trkpt>
+<trkpt lat="43.172685" lon="-2.31848">
+<ele>129.808</ele>
+<time>2024-09-08T17:59:04.553Z</time>
+</trkpt>
+<trkpt lat="43.171519" lon="-2.319167">
+<ele>129.115</ele>
+<time>2024-09-08T17:59:44.553Z</time>
+</trkpt>
+<trkpt lat="43.171331" lon="-2.319424">
+<ele>128.644</ele>
+<time>2024-09-08T18:00:24.553Z</time>
+</trkpt>
+<trkpt lat="43.170611" lon="-2.319864">
+<ele>131.031</ele>
+<time>2024-09-08T18:01:04.553Z</time>
+</trkpt>
+<trkpt lat="43.16968" lon="-2.321345">
+<ele>130.791</ele>
+<time>2024-09-08T18:01:44.553Z</time>
+</trkpt>
+<trkpt lat="43.168311" lon="-2.323684">
+<ele>132.18</ele>
+<time>2024-09-08T18:02:24.553Z</time>
+</trkpt>
+<trkpt lat="43.166949" lon="-2.326001">
+<ele>138.495</ele>
+<time>2024-09-08T18:03:04.553Z</time>
+</trkpt>
+<trkpt lat="43.165595" lon="-2.32834">
+<ele>137.22</ele>
+<time>2024-09-08T18:03:44.553Z</time>
+</trkpt>
+<trkpt lat="43.164304" lon="-2.330732">
+<ele>137.136</ele>
+<time>2024-09-08T18:04:24.553Z</time>
+</trkpt>
+<trkpt lat="43.163874" lon="-2.331344">
+<ele>142.613</ele>
+<time>2024-09-08T18:05:04.553Z</time>
+</trkpt>
+<trkpt lat="43.162262" lon="-2.33188">
+<ele>147.443</ele>
+<time>2024-09-08T18:05:44.553Z</time>
+</trkpt>
+<trkpt lat="43.161667" lon="-2.332342">
+<ele>148.307</ele>
+<time>2024-09-08T18:06:24.553Z</time>
+</trkpt>
+<trkpt lat="43.160908" lon="-2.333382">
+<ele>152.208</ele>
+<time>2024-09-08T18:07:04.553Z</time>
+</trkpt>
+<trkpt lat="43.160164" lon="-2.33482">
+<ele>156.823</ele>
+<time>2024-09-08T18:07:44.553Z</time>
+</trkpt>
+<trkpt lat="43.159139" lon="-2.335045">
+<ele>157.572</ele>
+<time>2024-09-08T18:08:24.553Z</time>
+</trkpt>
+<trkpt lat="43.158114" lon="-2.334713">
+<ele>160.239</ele>
+<time>2024-09-08T18:09:04.553Z</time>
+</trkpt>
+<trkpt lat="43.157503" lon="-2.334938">
+<ele>166.469</ele>
+<time>2024-09-08T18:09:44.553Z</time>
+</trkpt>
+<trkpt lat="43.157112" lon="-2.335485">
+<ele>152.738</ele>
+<time>2024-09-08T18:10:24.553Z</time>
+</trkpt>
+<trkpt lat="43.156055" lon="-2.338114">
+<ele>166.633</ele>
+<time>2024-09-08T18:11:04.553Z</time>
+</trkpt>
+<trkpt lat="43.155163" lon="-2.340292">
+<ele>178.138</ele>
+<time>2024-09-08T18:11:44.553Z</time>
+</trkpt>
+<trkpt lat="43.15447" lon="-2.341268">
+<ele>174.224</ele>
+<time>2024-09-08T18:12:24.553Z</time>
+</trkpt>
+<trkpt lat="43.152967" lon="-2.342577">
+<ele>174.578</ele>
+<time>2024-09-08T18:13:04.553Z</time>
+</trkpt>
+<trkpt lat="43.152403" lon="-2.342899">
+<ele>199.933</ele>
+<time>2024-09-08T18:13:44.553Z</time>
+</trkpt>
+<trkpt lat="43.15173" lon="-2.342899">
+<ele>193.326</ele>
+<time>2024-09-08T18:14:24.553Z</time>
+</trkpt>
+<trkpt lat="43.150728" lon="-2.342427">
+<ele>187.108</ele>
+<time>2024-09-08T18:15:04.553Z</time>
+</trkpt>
+<trkpt lat="43.149225" lon="-2.342126">
+<ele>204.649</ele>
+<time>2024-09-08T18:15:44.553Z</time>
+</trkpt>
+<trkpt lat="43.147363" lon="-2.342813">
+<ele>250.488</ele>
+<time>2024-09-08T18:16:24.553Z</time>
+</trkpt>
+<trkpt lat="43.145781" lon="-2.344615">
+<ele>229.755</ele>
+<time>2024-09-08T18:17:04.553Z</time>
+</trkpt>
+<trkpt lat="43.144325" lon="-2.346311">
+<ele>197.995</ele>
+<time>2024-09-08T18:17:44.553Z</time>
+</trkpt>
+<trkpt lat="43.143276" lon="-2.34719">
+<ele>200.764</ele>
+<time>2024-09-08T18:18:24.553Z</time>
+</trkpt>
+<trkpt lat="43.14182" lon="-2.348478">
+<ele>204.349</ele>
+<time>2024-09-08T18:19:04.553Z</time>
+</trkpt>
+<trkpt lat="43.140552" lon="-2.350109">
+<ele>228.134</ele>
+<time>2024-09-08T18:19:44.553Z</time>
+</trkpt>
+<trkpt lat="43.140364" lon="-2.350452">
+<ele>226.68</ele>
+<time>2024-09-08T18:20:24.553Z</time>
+</trkpt>
+<trkpt lat="43.138704" lon="-2.351224">
+<ele>219.677</ele>
+<time>2024-09-08T18:21:04.553Z</time>
+</trkpt>
+<trkpt lat="43.136857" lon="-2.351589">
+<ele>229.361</ele>
+<time>2024-09-08T18:21:44.553Z</time>
+</trkpt>
+<trkpt lat="43.134853" lon="-2.351332">
+<ele>232.527</ele>
+<time>2024-09-08T18:22:24.553Z</time>
+</trkpt>
+<trkpt lat="43.133788" lon="-2.351525">
+<ele>234.608</ele>
+<time>2024-09-08T18:23:04.553Z</time>
+</trkpt>
+<trkpt lat="43.132958" lon="-2.351418">
+<ele>233.719</ele>
+<time>2024-09-08T18:23:44.553Z</time>
+</trkpt>
+<trkpt lat="43.13194" lon="-2.350881">
+<ele>235.968</ele>
+<time>2024-09-08T18:24:24.553Z</time>
+</trkpt>
+<trkpt lat="43.130155" lon="-2.350259">
+<ele>247.255</ele>
+<time>2024-09-08T18:25:04.553Z</time>
+</trkpt>
+<trkpt lat="43.128573" lon="-2.350194">
+<ele>247.495</ele>
+<time>2024-09-08T18:25:44.553Z</time>
+</trkpt>
+<trkpt lat="43.127023" lon="-2.349572">
+<ele>249.814</ele>
+<time>2024-09-08T18:26:24.553Z</time>
+</trkpt>
+<trkpt lat="43.125973" lon="-2.349079">
+<ele>258.549</ele>
+<time>2024-09-08T18:27:04.553Z</time>
+</trkpt>
+<trkpt lat="43.124423" lon="-2.34719">
+<ele>260.014</ele>
+<time>2024-09-08T18:27:44.553Z</time>
+</trkpt>
+<trkpt lat="43.12353" lon="-2.34571">
+<ele>263.18</ele>
+<time>2024-09-08T18:28:24.553Z</time>
+</trkpt>
+<trkpt lat="43.122826" lon="-2.344079">
+<ele>275.775</ele>
+<time>2024-09-08T18:29:04.553Z</time>
+</trkpt>
+<trkpt lat="43.12104" lon="-2.342877">
+<ele>266.628</ele>
+<time>2024-09-08T18:29:44.553Z</time>
+</trkpt>
+<trkpt lat="43.119912" lon="-2.341568">
+<ele>270.72</ele>
+<time>2024-09-08T18:30:24.553Z</time>
+</trkpt>
+<trkpt lat="43.117845" lon="-2.341247">
+<ele>309.008</ele>
+<time>2024-09-08T18:31:04.553Z</time>
+</trkpt>
+<trkpt lat="43.116357" lon="-2.341225">
+<ele>273.419</ele>
+<time>2024-09-08T18:31:44.553Z</time>
+</trkpt>
+<trkpt lat="43.115025" lon="-2.341697">
+<ele>277.168</ele>
+<time>2024-09-08T18:32:24.553Z</time>
+</trkpt>
+<trkpt lat="43.114101" lon="-2.341161">
+<ele>277.285</ele>
+<time>2024-09-08T18:33:04.553Z</time>
+</trkpt>
+<trkpt lat="43.112973" lon="-2.338843">
+<ele>310.785</ele>
+<time>2024-09-08T18:33:44.553Z</time>
+</trkpt>
+<trkpt lat="43.112143" lon="-2.337041">
+<ele>292.434</ele>
+<time>2024-09-08T18:34:24.553Z</time>
+</trkpt>
+<trkpt lat="43.112018" lon="-2.334638">
+<ele>295.329</ele>
+<time>2024-09-08T18:35:04.553Z</time>
+</trkpt>
+<trkpt lat="43.11241" lon="-2.333372">
+<ele>295.544</ele>
+<time>2024-09-08T18:35:44.553Z</time>
+</trkpt>
+<trkpt lat="43.114258" lon="-2.332449">
+<ele>302.86</ele>
+<time>2024-09-08T18:36:24.553Z</time>
+</trkpt>
+<trkpt lat="43.114681" lon="-2.331398">
+<ele>302.214</ele>
+<time>2024-09-08T18:37:04.553Z</time>
+</trkpt>
+<trkpt lat="43.11454" lon="-2.330024">
+<ele>301.454</ele>
+<time>2024-09-08T18:37:44.553Z</time>
+</trkpt>
+<trkpt lat="43.113882" lon="-2.327449">
+<ele>305.209</ele>
+<time>2024-09-08T18:38:24.553Z</time>
+</trkpt>
+<trkpt lat="43.113819" lon="-2.324553">
+<ele>315.208</ele>
+<time>2024-09-08T18:39:04.553Z</time>
+</trkpt>
+<trkpt lat="43.11313" lon="-2.323072">
+<ele>315.453</ele>
+<time>2024-09-08T18:39:44.553Z</time>
+</trkpt>
+<trkpt lat="43.111219" lon="-2.322278">
+<ele>317.762</ele>
+<time>2024-09-08T18:40:24.553Z</time>
+</trkpt>
+<trkpt lat="43.110357" lon="-2.321441">
+<ele>323.629</ele>
+<time>2024-09-08T18:41:04.553Z</time>
+</trkpt>
+<trkpt lat="43.10901" lon="-2.319274">
+<ele>339.079</ele>
+<time>2024-09-08T18:41:44.553Z</time>
+</trkpt>
+<trkpt lat="43.108446" lon="-2.318351">
+<ele>325.498</ele>
+<time>2024-09-08T18:42:24.553Z</time>
+</trkpt>
+<trkpt lat="43.107961" lon="-2.317772">
+<ele>329.333</ele>
+<time>2024-09-08T18:43:04.553Z</time>
+</trkpt>
+<trkpt lat="43.107444" lon="-2.317493">
+<ele>330.128</ele>
+<time>2024-09-08T18:43:44.553Z</time>
+</trkpt>
+<trkpt lat="43.105595" lon="-2.317922">
+<ele>335.454</ele>
+<time>2024-09-08T18:44:24.553Z</time>
+</trkpt>
+<trkpt lat="43.105" lon="-2.317922">
+<ele>333.147</ele>
+<time>2024-09-08T18:45:04.553Z</time>
+</trkpt>
+<trkpt lat="43.104091" lon="-2.317107">
+<ele>334.029</ele>
+<time>2024-09-08T18:45:44.553Z</time>
+</trkpt>
+<trkpt lat="43.103621" lon="-2.316763">
+<ele>333.421</ele>
+<time>2024-09-08T18:46:24.553Z</time>
+</trkpt>
+<trkpt lat="43.102681" lon="-2.317085">
+<ele>337.308</ele>
+<time>2024-09-08T18:47:04.553Z</time>
+</trkpt>
+<trkpt lat="43.101882" lon="-2.317665">
+<ele>337.496</ele>
+<time>2024-09-08T18:47:44.553Z</time>
+</trkpt>
+<trkpt lat="43.101349" lon="-2.317708">
+<ele>337.465</ele>
+<time>2024-09-08T18:48:24.553Z</time>
+</trkpt>
+<trkpt lat="43.100832" lon="-2.31745">
+<ele>337.222</ele>
+<time>2024-09-08T18:49:04.553Z</time>
+</trkpt>
+<trkpt lat="43.099892" lon="-2.316871">
+<ele>340.442</ele>
+<time>2024-09-08T18:49:44.553Z</time>
+</trkpt>
+<trkpt lat="43.098702" lon="-2.316592">
+<ele>342.181</ele>
+<time>2024-09-08T18:50:24.553Z</time>
+</trkpt>
+<trkpt lat="43.098106" lon="-2.316334">
+<ele>341.856</ele>
+<time>2024-09-08T18:51:04.553Z</time>
+</trkpt>
+<trkpt lat="43.097417" lon="-2.31539">
+<ele>343.061</ele>
+<time>2024-09-08T18:51:44.553Z</time>
+</trkpt>
+<trkpt lat="43.096508" lon="-2.314339">
+<ele>342.947</ele>
+<time>2024-09-08T18:52:24.553Z</time>
+</trkpt>
+<trkpt lat="43.095784" lon="-2.313695">
+<ele>344.775</ele>
+<time>2024-09-08T18:53:04.553Z</time>
+</trkpt>
+<trkpt lat="43.095134" lon="-2.313137">
+<ele>345.228</ele>
+<time>2024-09-08T18:53:44.553Z</time>
+</trkpt>
+<trkpt lat="43.094672" lon="-2.312826">
+<ele>345.32</ele>
+<time>2024-09-08T18:54:24.553Z</time>
+</trkpt>
+<trkpt lat="43.093606" lon="-2.312912">
+<ele>346.508</ele>
+<time>2024-09-08T18:55:04.553Z</time>
+</trkpt>
+<trkpt lat="43.092885" lon="-2.313008">
+<ele>346.149</ele>
+<time>2024-09-08T18:55:44.553Z</time>
+</trkpt>
+<trkpt lat="43.092384" lon="-2.31304">
+<ele>346.018</ele>
+<time>2024-09-08T18:56:24.553Z</time>
+</trkpt>
+<trkpt lat="43.091702" lon="-2.313298">
+<ele>346.115</ele>
+<time>2024-09-08T18:57:04.553Z</time>
+</trkpt>
+<trkpt lat="43.091373" lon="-2.313513">
+<ele>346.055</ele>
+<time>2024-09-08T18:57:44.553Z</time>
+</trkpt>
+<trkpt lat="43.091177" lon="-2.313523">
+<ele>346.274</ele>
+<time>2024-09-08T18:58:24.553Z</time>
+</trkpt>
+<trkpt lat="43.090417" lon="-2.314489">
+<ele>347.589</ele>
+<time>2024-09-08T18:59:04.553Z</time>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>

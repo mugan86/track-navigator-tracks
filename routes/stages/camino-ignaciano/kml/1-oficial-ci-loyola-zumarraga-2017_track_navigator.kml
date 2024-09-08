@@ -1,0 +1,885 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+  <Document>
+    <name>1-oficial-ci-loyola-zumarraga-2017</name>
+    <description>Track generado en Track Navigator</description>
+
+    <Atom:author>
+      <Atom:name>Anartz Mugika Ledo</Atom:name>
+      <Atom:email>mugan86@gmail.com</Atom:email>
+    </Atom:author>
+    <Atom:link href="https://anartz-mugika.com/"/>
+    
+    <Style id="trackStyle"><LineStyle><color>FF00A5FF</color><width>6</width></LineStyle></Style>
+  <Placemark>
+    <name>Bar</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.1741508,-2.2812413">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.1741508,-2.2812413">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.2812413,43.1741508,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>WC Públicos</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.1743413,-2.2812201">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.1743413,-2.2812201">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.2812201,43.1743413,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>WC Públicos</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.1744288,-2.2812972">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.1744288,-2.2812972">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.2812972,43.1744288,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Agua Potable</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.1748968,-2.2808661">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.1748968,-2.2808661">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.2808661,43.1748968,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>WC Públicos</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.1749033,-2.2830926">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.1749033,-2.2830926">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.2830926,43.1749033,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Restaurante</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.176013,-2.2819724">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.176013,-2.2819724">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.2819724,43.176013,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Paradas de Bus</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.174969,-2.2840393">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.174969,-2.2840393">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.2840393,43.174969,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Agua Potable</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.1750934,-2.2854808">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.1750934,-2.2854808">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.2854808,43.1750934,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lugar para comer al Aire Libre</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.1743345,-2.2862072">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.1743345,-2.2862072">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.2862072,43.1743345,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lugar para comer al Aire Libre</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.1743904,-2.2861014">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.1743904,-2.2861014">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.2861014,43.1743904,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lugar para comer al Aire Libre</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.1743306,-2.2860551">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.1743306,-2.2860551">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.2860551,43.1743306,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lugar para comer al Aire Libre</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.1742824,-2.2861503">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.1742824,-2.2861503">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.2861503,43.1742824,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Agua Potable</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.1728957,-2.2935422">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.1728957,-2.2935422">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.2935422,43.1728957,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Agua Potable</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.17275,-2.2928602">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.17275,-2.2928602">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.2928602,43.17275,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Agua Potable</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.1720027,-2.2996275">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.1720027,-2.2996275">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.2996275,43.1720027,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Agua Potable</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.1701659,-2.3020072">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.1701659,-2.3020072">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.3020072,43.1701659,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Agua Potable</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.1705714,-2.3050891">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.1705714,-2.3050891">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.3050891,43.1705714,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Agua Potable</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.1747108,-2.3058183">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.1747108,-2.3058183">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.3058183,43.1747108,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Local comida rápida</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.1747578,-2.3052981">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.1747578,-2.3052981">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.3052981,43.1747578,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Agua Potable</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.1767621,-2.3081213">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.1767621,-2.3081213">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.3081213,43.1767621,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Agua Potable</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.1768697,-2.3086467">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.1768697,-2.3086467">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.3086467,43.1768697,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Agua Potable</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.1763318,-2.30822">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.1763318,-2.30822">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.30822,43.1763318,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Restaurante</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.1789425,-2.3094733">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.1789425,-2.3094733">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.3094733,43.1789425,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Agua Potable</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.1796014,-2.3090158">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.1796014,-2.3090158">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.3090158,43.1796014,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Agua Potable</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.1789902,-2.310084">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.1789902,-2.310084">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.310084,43.1789902,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Agua Potable</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.1793428,-2.3095644">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.1793428,-2.3095644">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.3095644,43.1793428,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Agua Potable</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.1786856,-2.3092975">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.1786856,-2.3092975">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.3092975,43.1786856,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Paradas de Bus</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.1770605,-2.3090391">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.1770605,-2.3090391">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.3090391,43.1770605,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Paradas de Bus</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.1781662,-2.3084912">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.1781662,-2.3084912">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.3084912,43.1781662,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bar</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.1785188,-2.310882">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.1785188,-2.310882">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.310882,43.1785188,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Agua Potable</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.1779935,-2.3111311">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.1779935,-2.3111311">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.3111311,43.1779935,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Agua Potable</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.17751,-2.3124397">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.17751,-2.3124397">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.3124397,43.17751,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Agua Potable</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.1782836,-2.3122573">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.1782836,-2.3122573">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.3122573,43.1782836,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bar</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.1767599,-2.3112705">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.1767599,-2.3112705">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.3112705,43.1767599,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Agua Potable</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.1766651,-2.3134448">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.1766651,-2.3134448">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.3134448,43.1766651,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Restaurante</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.1773026,-2.3142161">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.1773026,-2.3142161">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.3142161,43.1773026,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Paradas de Bus</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.1762226,-2.3128462">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.1762226,-2.3128462">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.3128462,43.1762226,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Agua Potable</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.1763394,-2.3137499">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.1763394,-2.3137499">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.3137499,43.1763394,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Paradas de Bus</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.1761322,-2.3129183">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.1761322,-2.3129183">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.3129183,43.1761322,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Paradas de Bus</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.1754531,-2.3180365">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.1754531,-2.3180365">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.3180365,43.1754531,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Agua Potable</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.1674393,-2.3263019">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.1674393,-2.3263019">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.3263019,43.1674393,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Agua Potable</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.1646407,-2.3295264">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.1646407,-2.3295264">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.3295264,43.1646407,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Restaurante</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.1351044,-2.3519047">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.1351044,-2.3519047">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.3519047,43.1351044,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Agua Potable</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.1333753,-2.3514403">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.1333753,-2.3514403">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.3514403,43.1333753,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Agua Potable</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.1333763,-2.3507939">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.1333763,-2.3507939">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.3507939,43.1333763,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Restaurante</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.1329011,-2.352007">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.1329011,-2.352007">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.352007,43.1329011,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Agua Potable</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.1029748,-2.3168825">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.1029748,-2.3168825">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.3168825,43.1029748,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Agua Potable</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.0995496,-2.3171193">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.0995496,-2.3171193">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.3171193,43.0995496,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Restaurante</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.1000763,-2.3156847">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.1000763,-2.3156847">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.3156847,43.1000763,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Paradas de Bus</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.0992157,-2.3166821">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.0992157,-2.3166821">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.3166821,43.0992157,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Agua Potable</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.0991364,-2.316493">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.0991364,-2.316493">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.316493,43.0991364,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>WC Públicos</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.0955008,-2.3135235">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.0955008,-2.3135235">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.3135235,43.0955008,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Agua Potable</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.0953997,-2.3134884">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.0953997,-2.3134884">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.3134884,43.0953997,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Agua Potable</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.0945881,-2.3142979">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.0945881,-2.3142979">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.3142979,43.0945881,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Agua Potable</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.0939405,-2.3128849">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.0939405,-2.3128849">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.3128849,43.0939405,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Agua Potable</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.0935748,-2.3119784">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.0935748,-2.3119784">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.3119784,43.0935748,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Agua Potable</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.0935108,-2.3123399">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.0935108,-2.3123399">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.3123399,43.0935108,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Agua Potable</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.0931561,-2.3143276">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.0931561,-2.3143276">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.3143276,43.0931561,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Agua Potable</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.0913081,-2.3148268">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.0913081,-2.3148268">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.3148268,43.0913081,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Café</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.0913776,-2.3144169">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.0913776,-2.3144169">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.3144169,43.0913776,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Agua Potable</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.090254,-2.3136823">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.090254,-2.3136823">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.3136823,43.090254,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Agua Potable</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.0902117,-2.3126406">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.0902117,-2.3126406">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.3126406,43.0902117,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Restaurante</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.0897628,-2.3132114">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.0897628,-2.3132114">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.3132114,43.0897628,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Paradas de Bus</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.0915411,-2.3155025">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.0915411,-2.3155025">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.3155025,43.0915411,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Agua Potable</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.0896157,-2.3150012">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.0896157,-2.3150012">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.3150012,43.0896157,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Agua Potable</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.0904025,-2.3151769">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.0904025,-2.3151769">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.3151769,43.0904025,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Agua Potable</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.0909312,-2.3156256">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.0909312,-2.3156256">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.3156256,43.0909312,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lugar para comer al Aire Libre</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.0904126,-2.3159385">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.0904126,-2.3159385">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.3159385,43.0904126,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lugar para comer al Aire Libre</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.0904448,-2.316077">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.0904448,-2.316077">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.316077,43.0904448,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lugar para comer al Aire Libre</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.0903586,-2.3160461">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.0903586,-2.3160461">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.3160461,43.0903586,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lugar para comer al Aire Libre</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.0903889,-2.3161816">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.0903889,-2.3161816">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.3161816,43.0903889,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lugar para comer al Aire Libre</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.0904976,-2.31596">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.0904976,-2.31596">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.31596,43.0904976,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lugar para comer al Aire Libre</name>
+    <description><![CDATA[
+      <a href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.0905462,-2.3158628">Street View</a><br/>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=43.0905462,-2.3158628">Directions</a>
+    ]]></description>
+    <Point>
+      <coordinates>-2.3158628,43.0905462,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Track</name>
+    <styleUrl>#trackStyle</styleUrl>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+        -2.282152,43.174578,92.846
+        -2.282624,43.174954,93.288
+        -2.282774,43.175087,92.116
+        -2.283182,43.175134,90.608
+        -2.28404,43.17493,91.086
+        -2.285682,43.17439,91.965
+        -2.286766,43.173819,91.152
+        -2.287227,43.173217,92.212
+        -2.288021,43.172473,96.291
+        -2.290982,43.172677,100.646
+        -2.293986,43.172841,97.921
+        -2.297001,43.172943,104.287
+        -2.298524,43.172857,102.269
+        -2.299275,43.172442,102.904
+        -2.300767,43.170768,103.124
+        -2.301464,43.170306,103.408
+        -2.304404,43.170118,111.338
+        -2.304951,43.170306,104.657
+        -2.305208,43.171433,103.724
+        -2.304994,43.172419,104.764
+        -2.30538,43.173545,104.343
+        -2.30538,43.174445,105.178
+        -2.305241,43.174789,106.973
+        -2.306989,43.176589,108.369
+        -2.308813,43.178357,111.086
+        -2.309479,43.179124,110.86
+        -2.310294,43.178905,112.126
+        -2.311689,43.178138,113.408
+        -2.312407,43.177473,113.76
+        -2.313545,43.176386,114.079
+        -2.314392,43.176206,114.626
+        -2.314564,43.175877,115.146
+        -2.314703,43.175165,117.275
+        -2.314135,43.175055,117.66
+        -2.314446,43.174962,118.855
+        -2.317182,43.174907,123.581
+        -2.318169,43.17432,121.333
+        -2.318566,43.173272,123.723
+        -2.318641,43.172935,123.415
+        -2.31848,43.172685,129.808
+        -2.319167,43.171519,129.115
+        -2.319424,43.171331,128.644
+        -2.319864,43.170611,131.031
+        -2.321345,43.16968,130.791
+        -2.323684,43.168311,132.18
+        -2.326001,43.166949,138.495
+        -2.32834,43.165595,137.22
+        -2.330732,43.164304,137.136
+        -2.331344,43.163874,142.613
+        -2.33188,43.162262,147.443
+        -2.332342,43.161667,148.307
+        -2.333382,43.160908,152.208
+        -2.33482,43.160164,156.823
+        -2.335045,43.159139,157.572
+        -2.334713,43.158114,160.239
+        -2.334938,43.157503,166.469
+        -2.335485,43.157112,152.738
+        -2.338114,43.156055,166.633
+        -2.340292,43.155163,178.138
+        -2.341268,43.15447,174.224
+        -2.342577,43.152967,174.578
+        -2.342899,43.152403,199.933
+        -2.342899,43.15173,193.326
+        -2.342427,43.150728,187.108
+        -2.342126,43.149225,204.649
+        -2.342813,43.147363,250.488
+        -2.344615,43.145781,229.755
+        -2.346311,43.144325,197.995
+        -2.34719,43.143276,200.764
+        -2.348478,43.14182,204.349
+        -2.350109,43.140552,228.134
+        -2.350452,43.140364,226.68
+        -2.351224,43.138704,219.677
+        -2.351589,43.136857,229.361
+        -2.351332,43.134853,232.527
+        -2.351525,43.133788,234.608
+        -2.351418,43.132958,233.719
+        -2.350881,43.13194,235.968
+        -2.350259,43.130155,247.255
+        -2.350194,43.128573,247.495
+        -2.349572,43.127023,249.814
+        -2.349079,43.125973,258.549
+        -2.34719,43.124423,260.014
+        -2.34571,43.12353,263.18
+        -2.344079,43.122826,275.775
+        -2.342877,43.12104,266.628
+        -2.341568,43.119912,270.72
+        -2.341247,43.117845,309.008
+        -2.341225,43.116357,273.419
+        -2.341697,43.115025,277.168
+        -2.341161,43.114101,277.285
+        -2.338843,43.112973,310.785
+        -2.337041,43.112143,292.434
+        -2.334638,43.112018,295.329
+        -2.333372,43.11241,295.544
+        -2.332449,43.114258,302.86
+        -2.331398,43.114681,302.214
+        -2.330024,43.11454,301.454
+        -2.327449,43.113882,305.209
+        -2.324553,43.113819,315.208
+        -2.323072,43.11313,315.453
+        -2.322278,43.111219,317.762
+        -2.321441,43.110357,323.629
+        -2.319274,43.10901,339.079
+        -2.318351,43.108446,325.498
+        -2.317772,43.107961,329.333
+        -2.317493,43.107444,330.128
+        -2.317922,43.105595,335.454
+        -2.317922,43.105,333.147
+        -2.317107,43.104091,334.029
+        -2.316763,43.103621,333.421
+        -2.317085,43.102681,337.308
+        -2.317665,43.101882,337.496
+        -2.317708,43.101349,337.465
+        -2.31745,43.100832,337.222
+        -2.316871,43.099892,340.442
+        -2.316592,43.098702,342.181
+        -2.316334,43.098106,341.856
+        -2.31539,43.097417,343.061
+        -2.314339,43.096508,342.947
+        -2.313695,43.095784,344.775
+        -2.313137,43.095134,345.228
+        -2.312826,43.094672,345.32
+        -2.312912,43.093606,346.508
+        -2.313008,43.092885,346.149
+        -2.31304,43.092384,346.018
+        -2.313298,43.091702,346.115
+        -2.313513,43.091373,346.055
+        -2.313523,43.091177,346.274
+        -2.314489,43.090417,347.589
+      </coordinates>
+    </LineString>
+  </Placemark>
+</Document>
+</kml>
