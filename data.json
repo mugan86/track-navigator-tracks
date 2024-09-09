@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Camino de Santiago - Francés",
+        "description": "Camino Francés desde Roncesvalles (Navarra) hasta Santiago.",
+        "stages": [
+            {
+                "name": "Stage 1",
+                "description": "Stage 1 description.",
+                "gpxUrl": "https://raw.githubusercontent.com/mugan86/track-navigator-tracks/master/routes/stages/camino-santiago/frances/gpx/camino-de-santiago-01-roncesvalles-a-zubiri_track_navigator.gpx",
+                "kmlUrl": "assets/stage1.kml"
+            },
+            {
+                "name": "Stage 2",
+                "description": "Stage 2 description.",
+                "gpxUrl": "https://raw.githubusercontent.com/mugan86/track-navigator-tracks/master/routes/stages/camino-santiago/frances/gpx/camino-de-santiago-02-zubiri-a-pamplona_track_navigator.gpx",
+                "kmlUrl": "assets/stage2.kml"
+            },
+            {
+                "name": "Stage 3",
+                "description": "Stage 3 description.",
+                "gpxUrl": "assets/stage3.gpx",
+                "kmlUrl": "assets/stage3.kml"
+            },
+            {
+                "name": "Stage 4",
+                "description": "Stage 3 description.",
+                "gpxUrl": "assets/stage3.gpx",
+                "kmlUrl": "assets/stage3.kml"
+            },
+            {
+                "name": "Stage 5",
+                "description": "Stage 3 description.",
+                "gpxUrl": "assets/stage3.gpx",
+                "kmlUrl": "assets/stage3.kml"
+            },
+            {
+                "name": "Stage 6",
+                "description": "Stage 3 description.",
+                "gpxUrl": "assets/stage3.gpx",
+                "kmlUrl": "assets/stage3.kml"
+            }
+        ]
+    },
+    {
+        "name": "Journey 2",
+        "description": "This is a short description of Journey 2.",
+        "stages": [
+            {
+                "name": "Stage A",
+                "description": "Stage A description.",
+                "gpxUrl": "assets/stageA.gpx",
+                "kmlUrl": "assets/stageA.kml"
+            },
+            {
+                "name": "Stage B",
+                "description": "Stage B description.",
+                "gpxUrl": "assets/stageB.gpx",
+                "kmlUrl": "assets/stageB.kml"
+            }
+        ]
+    }
+]
