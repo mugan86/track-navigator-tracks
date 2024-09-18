@@ -6,14 +6,14 @@
             {
                 "name": "Stage 1",
                 "description": "Stage 1 description.",
-                "gpxUrl": "https://raw.githubusercontent.com/mugan86/track-navigator-tracks/master/routes/stages/camino-santiago/frances/gpx/camino-de-santiago-01-roncesvalles-a-zubiri_track_navigator.gpx",
-                "kmlUrl": "https://raw.githubusercontent.com/mugan86/track-navigator-tracks/master/routes/stages/camino-santiago/frances/kml/camino-de-santiago-01-roncesvalles-a-zubiri_track_navigator.kml"
+                "gpxUrl": "routes/stages/camino-santiago/frances/gpx/camino-de-santiago-01-roncesvalles-a-zubiri_track_navigator.gpx",
+                "kmlUrl": "routes/stages/camino-santiago/frances/kml/camino-de-santiago-01-roncesvalles-a-zubiri_track_navigator.kml"
             },
             {
                 "name": "Stage 2",
                 "description": "Stage 2 description.",
-                "gpxUrl": "https://raw.githubusercontent.com/mugan86/track-navigator-tracks/master/routes/stages/camino-santiago/frances/gpx/camino-de-santiago-02-zubiri-a-pamplona_track_navigator.gpx",
-                "kmlUrl": "https://raw.githubusercontent.com/mugan86/track-navigator-tracks/master/routes/stages/camino-santiago/frances/kml/camino-de-santiago-02-zubiri-a-pamplona_track_navigator.kml"
+                "gpxUrl": "routes/stages/camino-santiago/frances/gpx/camino-de-santiago-02-zubiri-a-pamplona_track_navigator.gpx",
+                "kmlUrl": "routes/stages/camino-santiago/frances/kml/camino-de-santiago-02-zubiri-a-pamplona_track_navigator.kml"
             },
             {
                 "name": "Stage 3",
