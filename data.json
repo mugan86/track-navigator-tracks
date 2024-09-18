@@ -145,5 +145,33 @@
                 "original": "https://es.wikiloc.com/rutas-senderismo/camino-de-santiago-21-leon-san-martin-del-camino-101136207"
             }
         ]
+    },
+    {
+        "name": "Costa Brava Xtrem Running Challenge",
+        "description": "Desde Blanes a Port Bou en 3 etapas interesantes y divertidas",
+        "url": "https://es.wikiloc.com/rutas-senderismo/camino-frances-ruta-completa-de-roncesvalles-a-santiago-104011983",
+        "stages": [
+            {
+                "name": "1 - Blanes - Tossa de Mar",
+                "description": "Ruta de dificultad baja desde Roncesvalles a Zubiri. Comienzo de una nueva aventura",
+                "gpxUrl": "routes/stages/costabrava-xtrem/gpx/costa-brava-xtrem-running-challenge-etapa-1-blanes-tossa-de-_track_navigator.gpx",
+                "kmlUrl": "routes/stages/costabrava-xtrem/kml/costa-brava-xtrem-running-challenge-etapa-1-blanes-tossa-de-_track_navigator.kml",
+                "original": "https://es.wikiloc.com/rutas-carrera-por-montana/costa-brava-xtrem-running-challenge-etapa-1-blanes-tossa-de-mar-861404"
+            },
+            {
+                "name": "2 - Sant Feliu de Guixols - Pals",
+                "description": "Stage 2 description.",
+                "gpxUrl": "routes/stages/costabrava-xtrem/gpx/costa-brava-xtrem-running-challenge-etapa-2-sant-feliu-de-gu_track_navigator.gpx",
+                "kmlUrl": "routes/stages/costabrava-xtrem/kml/costa-brava-xtrem-running-challenge-etapa-2-sant-feliu-de-gu_track_navigator.kml",
+                "original": "https://es.wikiloc.com/rutas-carrera-por-montana/costa-brava-xtrem-running-challenge-etapa-2-sant-feliu-de-guixols-pals-871597"
+            },
+            {
+                "name": "3- Cadaques - Port Bou",
+                "description": "Stage 3 description.",
+                "gpxUrl": "routes/stages/costabrava-xtrem/gpx/costa-brava-xtrem-running-challenge-etapa-3-cadaques-portbou_track_navigator.gpx",
+                "kmlUrl": "routes/stages/costabrava-xtrem/kml/costa-brava-xtrem-running-challenge-etapa-3-cadaques-portbou_track_navigator.kml",
+                "original": "https://es.wikiloc.com/rutas-carrera-por-montana/costa-brava-xtrem-running-challenge-etapa-3-cadaques-portbou-867531"
+            }
+        ]
     }
 ]
