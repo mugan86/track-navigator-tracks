@@ -2,42 +2,147 @@
     {
         "name": "Camino de Santiago - Francés",
         "description": "Camino Francés desde Roncesvalles (Navarra) hasta Santiago.",
+        "url": "https://es.wikiloc.com/rutas-senderismo/camino-frances-ruta-completa-de-roncesvalles-a-santiago-104011983",
         "stages": [
             {
-                "name": "Stage 1",
-                "description": "Stage 1 description.",
+                "name": "1 - Roncesvalles - Zubiri",
+                "description": "Ruta de dificultad baja desde Roncesvalles a Zubiri. Comienzo de una nueva aventura",
                 "gpxUrl": "routes/stages/camino-santiago/frances/gpx/camino-de-santiago-01-roncesvalles-a-zubiri_track_navigator.gpx",
-                "kmlUrl": "routes/stages/camino-santiago/frances/kml/camino-de-santiago-01-roncesvalles-a-zubiri_track_navigator.kml"
+                "kmlUrl": "routes/stages/camino-santiago/frances/kml/camino-de-santiago-01-roncesvalles-a-zubiri_track_navigator.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-de-santiago-1-roncesvalles-a-zubiri-10670423"
             },
             {
-                "name": "Stage 2",
+                "name": "2 - Zubiri - Iruña / Pamplona",
                 "description": "Stage 2 description.",
                 "gpxUrl": "routes/stages/camino-santiago/frances/gpx/camino-de-santiago-02-zubiri-a-pamplona_track_navigator.gpx",
-                "kmlUrl": "routes/stages/camino-santiago/frances/kml/camino-de-santiago-02-zubiri-a-pamplona_track_navigator.kml"
+                "kmlUrl": "routes/stages/camino-santiago/frances/kml/camino-de-santiago-02-zubiri-a-pamplona_track_navigator.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-de-santiago-2-zubiri-a-pamplona-10665693"
             },
             {
-                "name": "Stage 3",
+                "name": "3- Iruña / Pamplona - Puente la Reina",
                 "description": "Stage 3 description.",
                 "gpxUrl": "assets/stage3.gpx",
-                "kmlUrl": "assets/stage3.kml"
+                "kmlUrl": "assets/stage3.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-de-santiago-3-pamplona-a-puente-la-reina-10670953"
             },
             {
-                "name": "Stage 4",
+                "name": "4- Puente la Reina - Estella",
                 "description": "Stage 3 description.",
                 "gpxUrl": "assets/stage3.gpx",
-                "kmlUrl": "assets/stage3.kml"
+                "kmlUrl": "assets/stage3.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-de-santiago-4-puente-la-reina-a-estella-10674922"
             },
             {
-                "name": "Stage 5",
+                "name": "5 - Estella - Los Arcos",
                 "description": "Stage 3 description.",
                 "gpxUrl": "assets/stage3.gpx",
-                "kmlUrl": "assets/stage3.kml"
+                "kmlUrl": "assets/stage3.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-de-santiago-5-estella-a-los-arcos-10682667"
             },
             {
-                "name": "Stage 6",
+                "name": "6 - Los Arcos - Logroño",
                 "description": "Stage 3 description.",
                 "gpxUrl": "assets/stage3.gpx",
-                "kmlUrl": "assets/stage3.kml"
+                "kmlUrl": "assets/stage3.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-de-santiago-6-los-arcos-a-logrono-167805494"
+            },
+            {
+                "name": "7 - Logroño - Nájera",
+                "description": "Stage 3 description.",
+                "gpxUrl": "assets/stage3.gpx",
+                "kmlUrl": "assets/stage3.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-de-santiago-8-logrono-najera-87509331"
+            },
+            {
+                "name": "8- Nájera - Sto. Domingo de la Calzada",
+                "description": "Stage 3 description.",
+                "gpxUrl": "assets/stage3.gpx",
+                "kmlUrl": "assets/stage3.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-de-santiago-9-najera-santo-domingo-de-la-calzada-87565159"
+            },
+            {
+                "name": "9 - Sto. Domingo de la Calzada  - Belorado",
+                "description": "Stage 3 description.",
+                "gpxUrl": "assets/stage3.gpx",
+                "kmlUrl": "assets/stage3.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-de-santiago-10-santo-domingo-de-la-calzada-belorado-87633022"
+            },
+            {
+                "name": "10 - Belorado - Atapuerca",
+                "description": "Stage 3 description.",
+                "gpxUrl": "assets/stage3.gpx",
+                "kmlUrl": "assets/stage3.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-de-santiago-11-belorado-atapuerca-87716326"
+            },
+            {
+                "name": "11 - Atapuerca - Burgos",
+                "description": "Stage 3 description.",
+                "gpxUrl": "assets/stage3.gpx",
+                "kmlUrl": "assets/stage3.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-de-santiago-12-atapuerca-burgos-por-castanares-87799791"
+            },
+            {
+                "name": "12 - Burgos - Hornillos del Camino",
+                "description": "Stage 3 description.",
+                "gpxUrl": "assets/stage3.gpx",
+                "kmlUrl": "assets/stage3.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-de-santiago-13-burgos-hornillos-del-camino-87900595"
+            },
+            {
+                "name": "13 - Hornillos del Camino - Castrojeriz",
+                "description": "Stage 3 description.",
+                "gpxUrl": "assets/stage3.gpx",
+                "kmlUrl": "assets/stage3.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-de-santiago-14-hornillos-del-camino-castrogeriz-87973148"
+            },
+            {
+                "name": "14 - Castrojeriz - Frómista",
+                "description": "Stage 3 description.",
+                "gpxUrl": "assets/stage3.gpx",
+                "kmlUrl": "assets/stage3.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-de-santiago-15-castrogeriz-fromista-88037961"
+            },
+            {
+                "name": "15 - Fromista - Carrión de los Condes",
+                "description": "Stage 3 description.",
+                "gpxUrl": "assets/stage3.gpx",
+                "kmlUrl": "assets/stage3.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-de-santiago-16-fromista-carrion-de-los-condes-100678581"
+            },
+            {
+                "name": "16 - Carrión de los Condes - Ledigos",
+                "description": "Stage 3 description.",
+                "gpxUrl": "assets/stage3.gpx",
+                "kmlUrl": "assets/stage3.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-de-santiago-17-carrion-de-los-condes-ledigos-100756241"
+            },
+            {
+                "name": "17 - Ledigos a Bercianos del Real Camino",
+                "description": "Stage 3 description.",
+                "gpxUrl": "assets/stage3.gpx",
+                "kmlUrl": "assets/stage3.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-de-santiago-18-ledigos-bercianos-del-real-camino-100870130"
+            },
+            {
+                "name": "18 - Bercianos del Real Camino - Mansilla de las Mulas",
+                "description": "Stage 3 description.",
+                "gpxUrl": "assets/stage3.gpx",
+                "kmlUrl": "assets/stage3.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-de-santiago-19-bercianos-del-real-camino-mansilla-de-las-mulas-100929119"
+            },
+            {
+                "name": "19 - Mansilla de las Mulas - León",
+                "description": "Stage 3 description.",
+                "gpxUrl": "assets/stage3.gpx",
+                "kmlUrl": "assets/stage3.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-de-santiago-20-mansilla-de-las-mulas-leon-101035048"
+            },
+            {
+                "name": "20 - León - San Martín del Camino",
+                "description": "Stage 3 description.",
+                "gpxUrl": "assets/stage3.gpx",
+                "kmlUrl": "assets/stage3.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-de-santiago-21-leon-san-martin-del-camino-101136207"
             }
         ]
     },
