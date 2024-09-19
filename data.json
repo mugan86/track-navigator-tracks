@@ -3,146 +3,238 @@
         "name": "Camino de Santiago - Francés",
         "description": "Camino Francés desde Roncesvalles (Navarra) hasta Santiago.",
         "url": "https://es.wikiloc.com/rutas-senderismo/camino-frances-ruta-completa-de-roncesvalles-a-santiago-104011983",
+        "homePath": "routes/stages/camino-santiago/frances/",
         "stages": [
             {
                 "name": "1 - Roncesvalles - Zubiri",
                 "description": "Ruta de dificultad baja desde Roncesvalles a Zubiri. Comienzo de una nueva aventura",
-                "gpxUrl": "routes/stages/camino-santiago/frances/gpx/camino-de-santiago-01-roncesvalles-a-zubiri_track_navigator.gpx",
-                "kmlUrl": "routes/stages/camino-santiago/frances/kml/camino-de-santiago-01-roncesvalles-a-zubiri_track_navigator.kml",
+                "gpxUrl": "gpx/camino-de-santiago-01-roncesvalles-a-zubiri_track_navigator.gpx",
+                "kmlUrl": "kml/camino-de-santiago-01-roncesvalles-a-zubiri_track_navigator.kml",
                 "original": "https://es.wikiloc.com/rutas-senderismo/camino-de-santiago-1-roncesvalles-a-zubiri-10670423"
             },
             {
                 "name": "2 - Zubiri - Iruña / Pamplona",
                 "description": "Stage 2 description.",
-                "gpxUrl": "routes/stages/camino-santiago/frances/gpx/camino-de-santiago-02-zubiri-a-pamplona_track_navigator.gpx",
-                "kmlUrl": "routes/stages/camino-santiago/frances/kml/camino-de-santiago-02-zubiri-a-pamplona_track_navigator.kml",
+                "gpxUrl": "gpx/camino-de-santiago-02-zubiri-a-pamplona_track_navigator.gpx",
+                "kmlUrl": "kml/camino-de-santiago-02-zubiri-a-pamplona_track_navigator.kml",
                 "original": "https://es.wikiloc.com/rutas-senderismo/camino-de-santiago-2-zubiri-a-pamplona-10665693"
             },
             {
                 "name": "3- Iruña / Pamplona - Puente la Reina",
                 "description": "Stage 3 description.",
-                "gpxUrl": "routes/stages/camino-santiago/frances/gpx/camino-de-santiago-03-pamplona-a-puente-la-reina_track_navigator.gpx",
-                "kmlUrl": "routes/stages/camino-santiago/frances/kml/camino-de-santiago-03-pamplona-a-puente-la-reina_track_navigator.kml",
+                "gpxUrl": "gpx/camino-de-santiago-03-pamplona-a-puente-la-reina_track_navigator.gpx",
+                "kmlUrl": "kml/camino-de-santiago-03-pamplona-a-puente-la-reina_track_navigator.kml",
                 "original": "https://es.wikiloc.com/rutas-senderismo/camino-de-santiago-3-pamplona-a-puente-la-reina-10670953"
             },
             {
                 "name": "4- Puente la Reina - Estella",
                 "description": "Stage 3 description.",
-                "gpxUrl": "routes/stages/camino-santiago/frances/gpx/camino-de-santiago-04-puente-la-reina-a-estella_track_navigator.gpx",
-                "kmlUrl": "routes/stages/camino-santiago/frances/kml/camino-de-santiago-04-puente-la-reina-a-estella_track_navigator.kml",
+                "gpxUrl": "gpx/camino-de-santiago-04-puente-la-reina-a-estella_track_navigator.gpx",
+                "kmlUrl": "kml/camino-de-santiago-04-puente-la-reina-a-estella_track_navigator.kml",
                 "original": "https://es.wikiloc.com/rutas-senderismo/camino-de-santiago-4-puente-la-reina-a-estella-10674922"
             },
             {
                 "name": "5 - Estella - Los Arcos",
                 "description": "Stage 3 description.",
-                "gpxUrl": "routes/stages/camino-santiago/frances/gpx/",
-                "kmlUrl": "routes/stages/camino-santiago/frances/kml/",
+                "gpxUrl": "gpx/camino-de-santiago-05-estella-a-los-arcos_track_navigator.gpx",
+                "kmlUrl": "kml/camino-de-santiago-05-estella-a-los-arcos_track_navigator.kml",
                 "original": "https://es.wikiloc.com/rutas-senderismo/camino-de-santiago-5-estella-a-los-arcos-10682667"
             },
             {
                 "name": "6 - Los Arcos - Logroño",
                 "description": "Stage 3 description.",
-                "gpxUrl": "routes/stages/camino-santiago/frances/gpx/",
-                "kmlUrl": "routes/stages/camino-santiago/frances/kml/",
+                "gpxUrl": "gpx/camino-de-santiago-06-los-arcos-a-logrono_track_navigator.gpx",
+                "kmlUrl": "kml/camino-de-santiago-06-los-arcos-a-logrono_track_navigator.kml",
                 "original": "https://es.wikiloc.com/rutas-senderismo/camino-de-santiago-6-los-arcos-a-logrono-167805494"
             },
             {
                 "name": "7 - Logroño - Nájera",
                 "description": "Stage 3 description.",
-                "gpxUrl": "routes/stages/camino-santiago/frances/gpx/",
-                "kmlUrl": "routes/stages/camino-santiago/frances/kml/",
+                "gpxUrl": "gpx/camino-de-santiago-07-logrono-najera_track_navigator.gpx",
+                "kmlUrl": "kml/camino-de-santiago-07-logrono-najera_track_navigator.gpx",
                 "original": "https://es.wikiloc.com/rutas-senderismo/camino-de-santiago-8-logrono-najera-87509331"
             },
             {
                 "name": "8- Nájera - Sto. Domingo de la Calzada",
                 "description": "Stage 3 description.",
-                "gpxUrl": "routes/stages/camino-santiago/frances/gpx/",
-                "kmlUrl": "routes/stages/camino-santiago/frances/kml/",
+                "gpxUrl": "gpx/camino-de-santiago-08-najera-santo-domingo-de-la-calzada_track_navigator.gpx",
+                "kmlUrl": "kml/camino-de-santiago-08-najera-santo-domingo-de-la-calzada_track_navigator.kml",
                 "original": "https://es.wikiloc.com/rutas-senderismo/camino-de-santiago-9-najera-santo-domingo-de-la-calzada-87565159"
             },
             {
                 "name": "9 - Sto. Domingo de la Calzada  - Belorado",
                 "description": "Stage 3 description.",
-                "gpxUrl": "routes/stages/camino-santiago/frances/gpx/",
-                "kmlUrl": "routes/stages/camino-santiago/frances/kml/",
+                "gpxUrl": "gpx/camino-de-santiago-09-santo-domingo-de-la-calzada-belorado_track_navigator.gpx",
+                "kmlUrl": "kml/camino-de-santiago-09-santo-domingo-de-la-calzada-belorado_track_navigator.kml",
                 "original": "https://es.wikiloc.com/rutas-senderismo/camino-de-santiago-10-santo-domingo-de-la-calzada-belorado-87633022"
             },
             {
                 "name": "10 - Belorado - Atapuerca",
                 "description": "Stage 3 description.",
-                "gpxUrl": "routes/stages/camino-santiago/frances/gpx/",
-                "kmlUrl": "routes/stages/camino-santiago/frances/kml/",
+                "gpxUrl": "gpx/camino-de-santiago-10-belorado-atapuerca_track_navigator.gpx",
+                "kmlUrl": "kml/camino-de-santiago-10-belorado-atapuerca_track_navigator.kml",
                 "original": "https://es.wikiloc.com/rutas-senderismo/camino-de-santiago-11-belorado-atapuerca-87716326"
             },
             {
                 "name": "11 - Atapuerca - Burgos",
                 "description": "Stage 3 description.",
-                "gpxUrl": "routes/stages/camino-santiago/frances/gpx/",
-                "kmlUrl": "routes/stages/camino-santiago/frances/kml/",
+                "gpxUrl": "gpx/camino-de-santiago-11-atapuerca-burgos-por-castanares_track_navigator.gpx",
+                "kmlUrl": "kml/camino-de-santiago-11-atapuerca-burgos-por-castanares_track_navigator.kml",
                 "original": "https://es.wikiloc.com/rutas-senderismo/camino-de-santiago-12-atapuerca-burgos-por-castanares-87799791"
             },
             {
                 "name": "12 - Burgos - Hornillos del Camino",
                 "description": "Stage 3 description.",
-                "gpxUrl": "routes/stages/camino-santiago/frances/gpx/",
-                "kmlUrl": "routes/stages/camino-santiago/frances/kml/",
+                "gpxUrl": "gpx/camino-de-santiago-12-burgos-hornillos-del-camino_track_navigator.gpx",
+                "kmlUrl": "kml/camino-de-santiago-12-burgos-hornillos-del-camino_track_navigator.kml",
                 "original": "https://es.wikiloc.com/rutas-senderismo/camino-de-santiago-13-burgos-hornillos-del-camino-87900595"
             },
             {
                 "name": "13 - Hornillos del Camino - Castrojeriz",
                 "description": "Stage 3 description.",
-                "gpxUrl": "routes/stages/camino-santiago/frances/gpx/",
-                "kmlUrl": "routes/stages/camino-santiago/frances/kml/",
+                "gpxUrl": "gpx/camino-de-santiago-13-hornillos-del-camino-castrogeriz_track_navigator.gpx",
+                "kmlUrl": "kml/camino-de-santiago-13-hornillos-del-camino-castrogeriz_track_navigator.kml",
                 "original": "https://es.wikiloc.com/rutas-senderismo/camino-de-santiago-14-hornillos-del-camino-castrogeriz-87973148"
             },
             {
                 "name": "14 - Castrojeriz - Frómista",
                 "description": "Stage 3 description.",
-                "gpxUrl": "routes/stages/camino-santiago/frances/gpx/",
-                "kmlUrl": "routes/stages/camino-santiago/frances/kml/",
+                "gpxUrl": "gpx/camino-de-santiago-14-castrogeriz-fromista_track_navigator.gpx",
+                "kmlUrl": "kml/camino-de-santiago-14-castrogeriz-fromista_track_navigator.kml",
                 "original": "https://es.wikiloc.com/rutas-senderismo/camino-de-santiago-15-castrogeriz-fromista-88037961"
             },
             {
                 "name": "15 - Fromista - Carrión de los Condes",
                 "description": "Stage 3 description.",
-                "gpxUrl": "routes/stages/camino-santiago/frances/gpx/",
-                "kmlUrl": "routes/stages/camino-santiago/frances/kml/",
+                "gpxUrl": "gpx/camino-de-santiago-15-fromista-carrion-de-los-condes_track_navigator.gpx",
+                "kmlUrl": "kml/camino-de-santiago-15-fromista-carrion-de-los-condes_track_navigator.kml",
                 "original": "https://es.wikiloc.com/rutas-senderismo/camino-de-santiago-16-fromista-carrion-de-los-condes-100678581"
             },
             {
                 "name": "16 - Carrión de los Condes - Ledigos",
                 "description": "Stage 3 description.",
-                "gpxUrl": "routes/stages/camino-santiago/frances/gpx/",
-                "kmlUrl": "routes/stages/camino-santiago/frances/kml/",
+                "gpxUrl": "gpx/camino-de-santiago-16-carrion-de-los-condes-ledigos_track_navigator.gpx",
+                "kmlUrl": "kml/camino-de-santiago-16-carrion-de-los-condes-ledigos_track_navigator.kml",
                 "original": "https://es.wikiloc.com/rutas-senderismo/camino-de-santiago-17-carrion-de-los-condes-ledigos-100756241"
             },
             {
                 "name": "17 - Ledigos a Bercianos del Real Camino",
                 "description": "Stage 3 description.",
-                "gpxUrl": "routes/stages/camino-santiago/frances/gpx/",
-                "kmlUrl": "routes/stages/camino-santiago/frances/kml/",
+                "gpxUrl": "gpx/camino-de-santiago-17-ledigos-bercianos-del-real-camino_track_navigator.gpx",
+                "kmlUrl": "kml/camino-de-santiago-17-ledigos-bercianos-del-real-camino_track_navigator.kml",
                 "original": "https://es.wikiloc.com/rutas-senderismo/camino-de-santiago-18-ledigos-bercianos-del-real-camino-100870130"
             },
             {
                 "name": "18 - Bercianos del Real Camino - Mansilla de las Mulas",
                 "description": "Stage 3 description.",
-                "gpxUrl": "routes/stages/camino-santiago/frances/gpx/",
-                "kmlUrl": "routes/stages/camino-santiago/frances/kml/",
+                "gpxUrl": "gpx/camino-de-santiago-18-bercianos-del-real-camino-mansilla-de-_track_navigator.gpx",
+                "kmlUrl": "kml/camino-de-santiago-18-bercianos-del-real-camino-mansilla-de-_track_navigator.kml",
                 "original": "https://es.wikiloc.com/rutas-senderismo/camino-de-santiago-19-bercianos-del-real-camino-mansilla-de-las-mulas-100929119"
             },
             {
                 "name": "19 - Mansilla de las Mulas - León",
                 "description": "Stage 3 description.",
-                "gpxUrl": "routes/stages/camino-santiago/frances/gpx/",
-                "kmlUrl": "routes/stages/camino-santiago/frances/kml/",
+                "gpxUrl": "gpx/camino-de-santiago-19-mansilla-de-las-mulas-leon_track_navigator.gpx",
+                "kmlUrl": "kml/camino-de-santiago-19-mansilla-de-las-mulas-leon_track_navigator.kml",
                 "original": "https://es.wikiloc.com/rutas-senderismo/camino-de-santiago-20-mansilla-de-las-mulas-leon-101035048"
             },
             {
                 "name": "20 - León - San Martín del Camino",
                 "description": "Stage 3 description.",
-                "gpxUrl": "routes/stages/camino-santiago/frances/gpx/",
-                "kmlUrl": "routes/stages/camino-santiago/frances/kml/",
+                "gpxUrl": "gpx/camino-de-santiago-20-leon-san-martin-del-camino_track_navigator.gpx",
+                "kmlUrl": "kml/camino-de-santiago-20-leon-san-martin-del-camino_track_navigator.kml",
                 "original": "https://es.wikiloc.com/rutas-senderismo/camino-de-santiago-21-leon-san-martin-del-camino-101136207"
+            },
+            {
+                "name": "21 - San Martín del Camino - Astorga",
+                "description": "Stage 3 description.",
+                "gpxUrl": "gpx/camino-de-santiago-21-san-martin-del-camino-astorga_track_navigator.gpx",
+                "kmlUrl": "kml/camino-de-santiago-21-san-martin-del-camino-astorga_track_navigator.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-de-santiago-22-san-martin-del-camino-astorga-101194543"
+            },
+            {
+                "name": "22 - Astorga - Foncebadón",
+                "description": "Stage 3 description.",
+                "gpxUrl": "gpx/camino-de-santiago-22-astorga-foncebadon_track_navigator.gpx",
+                "kmlUrl": "kml/camino-de-santiago-22-astorga-foncebadon_track_navigator.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-de-santiago-23-astorga-foncebadon-101255071"
+            },
+            {
+                "name": "23 - Foncebadón - Ponferrada",
+                "description": "Stage 3 description.",
+                "gpxUrl": "gpx/camino-de-santiago-23-foncebadon-a-ponferrada_track_navigator.gpx",
+                "kmlUrl": "kml/camino-de-santiago-23-foncebadon-a-ponferrada_track_navigator.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-de-santiago-24-foncebadon-a-ponferrada-102610086"
+            },
+            {
+                "name": "24 - Ponferrada - Villafranca del Bierzo",
+                "description": "Stage 3 description.",
+                "gpxUrl": "gpx/camino-de-santiago-24-ponferrada-villafranca-del-bierzo_track_navigator.gpx",
+                "kmlUrl": "kml/camino-de-santiago-24-ponferrada-villafranca-del-bierzo_track_navigator.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-de-santiago-24-ponferrada-villafranca-del-bierzo-101462997"
+            },
+            {
+                "name": "25 - Villafranca del Bierzo - O Cebreiro",
+                "description": "Stage 3 description.",
+                "gpxUrl": "gpx/camino-de-santiago-25-villafranca-del-bierzo-o-cebreiro_track_navigator.gpx",
+                "kmlUrl": "kml/camino-de-santiago-25-villafranca-del-bierzo-o-cebreiro_track_navigator.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-de-santiago-25-villafranca-del-bierzo-o-cebreiro-101574801"
+            },
+            {
+                "name": "26 - O Cebreiro - Triacastela",
+                "description": "Stage 3 description.",
+                "gpxUrl": "gpx/camino-de-santiago-26-cebreiro-triacastela_track_navigator.gpx",
+                "kmlUrl": "kml/camino-de-santiago-26-cebreiro-triacastela_track_navigator.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-de-santiago-26-cebreiro-triacastela-101674291"
+            },
+            {
+                "name": "27 - A - Triacastela - Sarria (por San Xil)",
+                "description": "Stage 3 description.",
+                "gpxUrl": "gpx/camino-de-santiago-27-a-triacastela-sarria-por-san-xil_track_navigator.gpx",
+                "kmlUrl": "kml/camino-de-santiago-27-a-triacastela-sarria-por-san-xil_track_navigator.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-de-santiago-26-triacastela-sarria-101759420"
+            },
+            {
+                "name": "27 - B - Triacastela - Sarria (por Samos)",
+                "description": "Stage 3 description.",
+                "gpxUrl": "gpx/camino-de-santiago-27-b-triacastela-sarria-por-ramos_track_navigator.gpx",
+                "kmlUrl": "kml/camino-de-santiago-27-b-triacastela-sarria-por-ramos_track_navigator.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/triacastela-a-sarria-por-samos-132381337"
+            },
+            {
+                "name": "28 - Sarria - Portomarín",
+                "description": "Stage 3 description.",
+                "gpxUrl": "gpx/camino-de-santiago-28-sarria-a-portomarin_track_navigator.gpx",
+                "kmlUrl": "kml/camino-de-santiago-28-sarria-a-portomarin_track_navigator.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-de-santiago-29-sarria-a-portomarin-102680109"
+            },
+            {
+                "name": "29 - Portomarín - Palas de Rey",
+                "description": "Stage 3 description.",
+                "gpxUrl": "gpx/camino-de-santiago-29-portomarin-palas-de-rey_track_navigator.gpx",
+                "kmlUrl": "kml/camino-de-santiago-29-portomarin-palas-de-rey_track_navigator.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-de-santiago-27-portomarin-palas-de-rey-101878904"
+            },
+            {
+                "name": "30 - Palas de Rey - Arzúa",
+                "description": "Stage 3 description.",
+                "gpxUrl": "gpx/camino-de-santiago-30-palas-de-rey-arzua_track_navigator.gpx",
+                "kmlUrl": "kml/camino-de-santiago-30-palas-de-rey-arzua_track_navigator.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-de-santiago-31-palas-de-rey-arzua-101965669"
+            },
+            {
+                "name": "31 - Arzúa - O Pedrouzo",
+                "description": "Stage 3 description.",
+                "gpxUrl": "gpx/camino-de-santiago-31-arzua-o-pedrouzo-_track_navigator.gpx",
+                "kmlUrl": "kml/camino-de-santiago-31-arzua-o-pedrouzo-_track_navigator.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-de-santiago-32-arzua-o-pedrouzo-102031577"
+            },
+            {
+                "name": "32 - O Pedrouzo - Santiago de Compostela",
+                "description": "Stage 3 description.",
+                "gpxUrl": "gpx/camino-de-santiago-32-o-pedrouzo-santiago-de-compostela_track_navigator.gpx",
+                "kmlUrl": "kml/camino-de-santiago-32-o-pedrouzo-santiago-de-compostela_track_navigator.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-de-santiago-33-o-pedrouzo-santiago-de-compostela-102289177"
             }
         ]
     },
@@ -150,26 +242,27 @@
         "name": "Costa Brava Xtrem Running Challenge",
         "description": "Desde Blanes a Port Bou en 3 etapas interesantes y divertidas",
         "url": "https://es.wikiloc.com/rutas-senderismo/camino-frances-ruta-completa-de-roncesvalles-a-santiago-104011983",
+        "homePath": "routes/stages/costabrava-xtrem/",
         "stages": [
             {
                 "name": "1 - Blanes - Tossa de Mar",
                 "description": "Ruta de dificultad baja desde Roncesvalles a Zubiri. Comienzo de una nueva aventura",
-                "gpxUrl": "routes/stages/costabrava-xtrem/gpx/costa-brava-xtrem-running-challenge-etapa-1-blanes-tossa-de-_track_navigator.gpx",
-                "kmlUrl": "routes/stages/costabrava-xtrem/kml/costa-brava-xtrem-running-challenge-etapa-1-blanes-tossa-de-_track_navigator.kml",
+                "gpxUrl": "gpx/costa-brava-xtrem-running-challenge-etapa-1-blanes-tossa-de-_track_navigator.gpx",
+                "kmlUrl": "kml/costa-brava-xtrem-running-challenge-etapa-1-blanes-tossa-de-_track_navigator.kml",
                 "original": "https://es.wikiloc.com/rutas-carrera-por-montana/costa-brava-xtrem-running-challenge-etapa-1-blanes-tossa-de-mar-861404"
             },
             {
                 "name": "2 - Sant Feliu de Guixols - Pals",
                 "description": "Stage 2 description.",
-                "gpxUrl": "routes/stages/costabrava-xtrem/gpx/costa-brava-xtrem-running-challenge-etapa-2-sant-feliu-de-gu_track_navigator.gpx",
-                "kmlUrl": "routes/stages/costabrava-xtrem/kml/costa-brava-xtrem-running-challenge-etapa-2-sant-feliu-de-gu_track_navigator.kml",
+                "gpxUrl": "gpx/costa-brava-xtrem-running-challenge-etapa-2-sant-feliu-de-gu_track_navigator.gpx",
+                "kmlUrl": "kml/costa-brava-xtrem-running-challenge-etapa-2-sant-feliu-de-gu_track_navigator.kml",
                 "original": "https://es.wikiloc.com/rutas-carrera-por-montana/costa-brava-xtrem-running-challenge-etapa-2-sant-feliu-de-guixols-pals-871597"
             },
             {
                 "name": "3- Cadaques - Port Bou",
                 "description": "Stage 3 description.",
-                "gpxUrl": "routes/stages/costabrava-xtrem/gpx/costa-brava-xtrem-running-challenge-etapa-3-cadaques-portbou_track_navigator.gpx",
-                "kmlUrl": "routes/stages/costabrava-xtrem/kml/costa-brava-xtrem-running-challenge-etapa-3-cadaques-portbou_track_navigator.kml",
+                "gpxUrl": "gpx/costa-brava-xtrem-running-challenge-etapa-3-cadaques-portbou_track_navigator.gpx",
+                "kmlUrl": "kml/costa-brava-xtrem-running-challenge-etapa-3-cadaques-portbou_track_navigator.kml",
                 "original": "https://es.wikiloc.com/rutas-carrera-por-montana/costa-brava-xtrem-running-challenge-etapa-3-cadaques-portbou-867531"
             }
         ]
