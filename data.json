@@ -4,6 +4,7 @@
         "description": "Camino Francés desde Roncesvalles (Navarra) hasta Santiago.",
         "url": "https://es.wikiloc.com/rutas-senderismo/camino-frances-ruta-completa-de-roncesvalles-a-santiago-104011983",
         "homePath": "routes/stages/camino-santiago/frances/",
+        "count": 32,
         "stages": [
             {
                 "name": "1 - Roncesvalles - Zubiri",
@@ -243,6 +244,7 @@
         "description": "Desde Blanes a Port Bou en 3 etapas interesantes y divertidas",
         "url": "https://es.wikiloc.com/rutas-senderismo/camino-frances-ruta-completa-de-roncesvalles-a-santiago-104011983",
         "homePath": "routes/stages/costabrava-xtrem/",
+        "count": 3,
         "stages": [
             {
                 "name": "1 - Blanes - Tossa de Mar",
