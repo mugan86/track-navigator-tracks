@@ -5,6 +5,11 @@
         "url": "https://es.wikiloc.com/rutas-senderismo/camino-frances-ruta-completa-de-roncesvalles-a-santiago-104011983",
         "homePath": "routes/stages/camino-santiago/frances/",
         "count": 32,
+        "distance": 758.77,
+        "elevation": {
+            "plus": 9854,
+            "negative": 10553
+        },
         "stages": [
             {
                 "name": "1 - Roncesvalles - Zubiri",
@@ -245,6 +250,11 @@
         "url": "https://www.wikiloc.com/hiking-trails/camino-de-santiago-ingles-2024-completo-175469759",
         "homePath": "routes/stages/camino-santiago/ingles/",
         "count": 5,
+        "distance": 111,
+        "elevation": {
+            "plus": 1947,
+            "negative": 1700
+        },
         "stages": [
             {
                 "name": "1 - Ferrol - Pontedeume",
@@ -288,6 +298,11 @@
         "description": "Desde Blanes a Port Bou en 3 etapas interesantes y divertidas",
         "url": "https://es.wikiloc.com/rutas-senderismo/camino-frances-ruta-completa-de-roncesvalles-a-santiago-104011983",
         "homePath": "routes/stages/costabrava-xtrem/",
+        "distance": 104.52,
+        "elevation": {
+            "plus": 3221,
+            "negative": 3132
+        },
         "count": 3,
         "stages": [
             {
