@@ -5,7 +5,12 @@
         "description": "Camino Francés desde Roncesvalles (Navarra) hasta Santiago.",
         "url": "https://es.wikiloc.com/rutas-senderismo/camino-frances-ruta-completa-de-roncesvalles-a-santiago-104011983",
         "homePath": "routes/stages/camino-santiago/frances/",
-        "count": 32
+        "count": 32,
+        "distance": 758.77,
+        "elevation": {
+            "plus": 9854,
+            "negative": 10553
+        }
     },
     {
         "id": "costabrava-xtrem",
@@ -13,7 +18,25 @@
         "description": "Desde Blanes a Port Bou en 3 etapas interesantes y divertidas",
         "url": "https://es.wikiloc.com/rutas-senderismo/camino-frances-ruta-completa-de-roncesvalles-a-santiago-104011983",
         "homePath": "routes/stages/costabrava-xtrem/",
-        "count": 3
+        "count": 3,
+        "distance": 104.52,
+        "elevation": {
+            "plus": 3221,
+            "negative": 3132
+        }
+    },
+    {
+        "id": "santiago-ingles",
+        "name": "Camino de Santiago - Inglés",
+        "description": "Camino Inglés desde Ferrol (La Coruña) hasta Santiago.",
+        "url": "https://www.wikiloc.com/hiking-trails/camino-de-santiago-ingles-2024-completo-175469759",
+        "homePath": "routes/stages/camino-santiago/ingles/",
+        "count": 5,
+        "distance": 111,
+        "elevation": {
+            "plus": 1947,
+            "negative": 1700
+        }
     },
     {
         "id": "m-zegama-aizkorri",
