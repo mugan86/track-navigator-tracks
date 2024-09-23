@@ -240,6 +240,50 @@
         ]
     },
     {
+        "name": "Camino de Santiago - Inglés",
+        "description": "Camino Inglés desde Ferrol (La Coruña) hasta Santiago.",
+        "url": "https://www.wikiloc.com/hiking-trails/camino-de-santiago-ingles-2024-completo-175469759",
+        "homePath": "routes/stages/camino-santiago/ingles/",
+        "count": 5,
+        "stages": [
+            {
+                "name": "1 - Ferrol - Pontedeume",
+                "description": "Ruta de dificultad baja desde Roncesvalles a Zubiri. Comienzo de una nueva aventura",
+                "gpxUrl": "gpx/camino-santiago-ingles-01-ferrol-pontedeume_track_navigator.gpx",
+                "kmlUrl": "kml/camino-santiago-ingles-01-ferrol-pontedeume_track_navigator.kml",
+                "original": "https://www.wikiloc.com/hiking-trails/camino-de-santiago-ingles-2024-ferrol-pontedeume-etapa-1-175087040"
+            },
+            {
+                "name": "2 - Pontedeume - Betanzos",
+                "description": "Stage 2 description.",
+                "gpxUrl": "gpx/camino-santiago-ingles-02-pontedeume-a-betanzos_track_navigator.gpx",
+                "kmlUrl": "kml/camino-santiago-ingles-02-pontedeume-a-betanzos_track_navigator.kml",
+                "original": "https://www.wikiloc.com/hiking-trails/camino-de-santiago-ingles-2024-pontedeume-betanzos-etapa-2-175195070"
+            },
+            {
+                "name": "3- Betanzos - Hospital de Bruma",
+                "description": "Stage 3 description.",
+                "gpxUrl": "gpx/camino-santiago-ingles-03-betanzos-san-paio-de-busc_track_navigator.gpx",
+                "kmlUrl": "kml/camino-santiago-ingles-03-betanzos-san-paio-de-busc_track_navigator.kml",
+                "original": "https://www.wikiloc.com/hiking-trails/camino-de-santiago-ingles-2024-betanzos-hospital-de-bruma-etapa-3-175290973"
+            },
+            {
+                "name": "4- Hospital de Bruma - Sigüeiro",
+                "description": "Stage 3 description.",
+                "gpxUrl": "gpx/camino-santiago-ingles-04-san-paio-de-buscas-sigueiro_track_navigator.gpx",
+                "kmlUrl": "kml/camino-santiago-ingles-04-san-paio-de-buscas-sigueiro_track_navigator.kml",
+                "original": "https://www.wikiloc.com/hiking-trails/camino-de-santiago-ingles-2024-hospital-de-bruma-sigueiro-etapa-4-175378146"
+            },
+            {
+                "name": "5 - Sigüeiro - Santiago de Compostela",
+                "description": "Stage 3 description.",
+                "gpxUrl": "gpx/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.gpx",
+                "kmlUrl": "kml/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.kml",
+                "original": "https://www.wikiloc.com/hiking-trails/camino-de-santiago-ingles-2024-sigueiro-santiago-de-compostela-etapa-5-175468216"
+            }
+        ]
+    },
+    {
         "name": "Costa Brava Xtrem Running Challenge",
         "description": "Desde Blanes a Port Bou en 3 etapas interesantes y divertidas",
         "url": "https://es.wikiloc.com/rutas-senderismo/camino-frances-ruta-completa-de-roncesvalles-a-santiago-104011983",
