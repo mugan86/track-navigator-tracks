@@ -46,6 +46,11 @@
         "homePath": "routes/individual/eh/zegama-aizkorri/",
         "count": 1,
         "gpxUrl": "zegama-aizkorri-mendi-maratoia-maraton-de-montana-mountain-m_track_navigator.gpx",
-        "kmlUrl": "zegama-aizkorri-mendi-maratoia-maraton-de-montana-mountain-m_track_navigator.kml"
+        "kmlUrl": "zegama-aizkorri-mendi-maratoia-maraton-de-montana-mountain-m_track_navigator.kml",
+        "distance": 42,
+        "elevation": {
+            "plus": 2700,
+            "negative": 2700
+        }
     }
 ]

@@ -258,35 +258,35 @@
         "stages": [
             {
                 "name": "1 - Ferrol - Pontedeume",
-                "description": "Ruta de dificultad baja desde Roncesvalles a Zubiri. Comienzo de una nueva aventura",
+                "description": "El Camino Inglés comienza en el muelle de Curuxeiras, en Ferrol, y se adentra por su casco histórico, pasando por la Concatedral de San Julián y la iglesia de San Francisco. Tras recorrer zonas urbanas y costeras, se avanza por la ría de Ferrol, visitando lugares como O Couto, Neda y Fene, donde destacan la iglesia de San Martiño de Xubia y la iglesia de Santa María. La etapa culmina en Pontedeume, tras cruzar el puente medieval del río Eume, con un recorrido de paisajes variados, historia y gastronomía local.",
                 "gpxUrl": "gpx/camino-santiago-ingles-01-ferrol-pontedeume_track_navigator.gpx",
                 "kmlUrl": "kml/camino-santiago-ingles-01-ferrol-pontedeume_track_navigator.kml",
                 "original": "https://www.wikiloc.com/hiking-trails/camino-de-santiago-ingles-2024-ferrol-pontedeume-etapa-1-175087040"
             },
             {
                 "name": "2 - Pontedeume - Betanzos",
-                "description": "Stage 2 description.",
+                "description": "Esta etapa del Camino Inglés entre Pontedeume y Betanzos es tan hermosa como desafiante, marcada por paisajes costeros, aldeas con encanto y vistas espectaculares. A pesar de ser cómoda en general, cuenta con tramos exigentes, como la dura subida al salir de Pontedeume y la Costa de Matacabalos, que requieren buen ritmo y preparación.",
                 "gpxUrl": "gpx/camino-santiago-ingles-02-pontedeume-a-betanzos_track_navigator.gpx",
                 "kmlUrl": "kml/camino-santiago-ingles-02-pontedeume-a-betanzos_track_navigator.kml",
                 "original": "https://www.wikiloc.com/hiking-trails/camino-de-santiago-ingles-2024-pontedeume-betanzos-etapa-2-175195070"
             },
             {
                 "name": "3 - Betanzos - Hospital de Bruma",
-                "description": "Stage 3 description.",
+                "description": "La tercera etapa del Camino Inglés, que conecta Betanzos con el albergue de Bruma, supone un desafío significativo para el peregrino. Con más de 30 kilómetros por recorrer, esta jornada combina tramos de gran belleza natural, alejados de los núcleos urbanos, con exigentes ascensos en su última parte. En ella, el caminante se adentra en las tierras de As Mariñas y recorre frondosos bosques, cursos de agua y paisajes rurales que evocan la Galicia más auténtica.",
                 "gpxUrl": "gpx/camino-santiago-ingles-03-betanzos-san-paio-de-busc_track_navigator.gpx",
                 "kmlUrl": "kml/camino-santiago-ingles-03-betanzos-san-paio-de-busc_track_navigator.kml",
                 "original": "https://www.wikiloc.com/hiking-trails/camino-de-santiago-ingles-2024-betanzos-hospital-de-bruma-etapa-3-175290973"
             },
             {
                 "name": "4 - Hospital de Bruma - Sigüeiro",
-                "description": "Stage 3 description.",
+                "description": "La cuarta etapa del Camino Inglés lleva al peregrino desde Bruma hasta la villa medieval de Sigüeiro, con un recorrido de aproximadamente 24 kilómetros. Este trayecto, más llevadero que las jornadas anteriores, atraviesa paisajes rurales, bosques frondosos y aldeas tradicionales, y está salpicado de cruceiros, iglesias y rincones históricos.",
                 "gpxUrl": "gpx/camino-santiago-ingles-04-san-paio-de-buscas-sigueiro_track_navigator.gpx",
                 "kmlUrl": "kml/camino-santiago-ingles-04-san-paio-de-buscas-sigueiro_track_navigator.kml",
                 "original": "https://www.wikiloc.com/hiking-trails/camino-de-santiago-ingles-2024-hospital-de-bruma-sigueiro-etapa-4-175378146"
             },
             {
                 "name": "5 - Sigüeiro - Santiago de Compostela",
-                "description": "Stage 3 description.",
+                "description": "La etapa final del Camino Inglés cruza el puente de Sigüeiro sobre el río Tambre y entra en Santiago, pasando por Meixonfrío, As Cancelas y el casco urbano. Atraviesa lugares históricos como la Porta da Pena y la Rúa da Troia antes de culminar frente a la imponente fachada norte de la Catedral de Santiago.",
                 "gpxUrl": "gpx/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.gpx",
                 "kmlUrl": "kml/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.kml",
                 "original": "https://www.wikiloc.com/hiking-trails/camino-de-santiago-ingles-2024-sigueiro-santiago-de-compostela-etapa-5-175468216"
@@ -307,21 +307,21 @@
         "stages": [
             {
                 "name": "1 - Blanes - Tossa de Mar",
-                "description": "Ruta de dificultad baja desde Roncesvalles a Zubiri. Comienzo de una nueva aventura",
+                "description": "La primera etapa de la Costa Brava Xtrem Running, que recorre la Selva Marítima, va de Blanes a Tossa de Mar, pasando por Lloret de Mar. Incluye tramos de asfalto, urbanizaciones, calas, playas, fuertes pendientes y escalones. La ruta también tiene algunos despistes que se pueden ver en el track, y comparte parte del recorrido con el GR92.",
                 "gpxUrl": "gpx/costa-brava-xtrem-running-challenge-etapa-1-blanes-tossa-de-_track_navigator.gpx",
                 "kmlUrl": "kml/costa-brava-xtrem-running-challenge-etapa-1-blanes-tossa-de-_track_navigator.kml",
                 "original": "https://es.wikiloc.com/rutas-carrera-por-montana/costa-brava-xtrem-running-challenge-etapa-1-blanes-tossa-de-mar-861404"
             },
             {
                 "name": "2 - Sant Feliu de Guixols - Pals",
-                "description": "Stage 2 description.",
+                "description": "La segunda etapa de la Costa Brava Xtrem Running, modalidad Challenge, va de Sant Feliu de Guíxols a Pals, pasando por Platja d'Aro, Sant Antoni de Calonge, Palamós, Calella de Palafrugell y Tamariu. Incluye tramos de asfalto, urbanizaciones, calas, playas (algunas nudistas), fuertes pendientes, escalones y alguna gruta. La ruta tiene algunos despistes, como uno saliendo de Platja d'Aro que se desvía hacia el puerto. Comparte parte del recorrido con el GR92.",
                 "gpxUrl": "gpx/costa-brava-xtrem-running-challenge-etapa-2-sant-feliu-de-gu_track_navigator.gpx",
                 "kmlUrl": "kml/costa-brava-xtrem-running-challenge-etapa-2-sant-feliu-de-gu_track_navigator.kml",
                 "original": "https://es.wikiloc.com/rutas-carrera-por-montana/costa-brava-xtrem-running-challenge-etapa-2-sant-feliu-de-guixols-pals-871597"
             },
             {
                 "name": "3- Cadaques - Port Bou",
-                "description": "Stage 3 description.",
+                "description": "La tercera etapa de la Costa Brava Xtrem Running, modalidad Challenge, va de Cadaqués a Portbou, pasando por Port de la Selva, Llançá, Grifeu y Colera. Incluye tramos de asfalto, paseos, playa, escalones, piedras y dos fuertes pendientes, al principio y al final. Comparte parte del recorrido con el GR92.",
                 "gpxUrl": "gpx/costa-brava-xtrem-running-challenge-etapa-3-cadaques-portbou_track_navigator.gpx",
                 "kmlUrl": "kml/costa-brava-xtrem-running-challenge-etapa-3-cadaques-portbou_track_navigator.kml",
                 "original": "https://es.wikiloc.com/rutas-carrera-por-montana/costa-brava-xtrem-running-challenge-etapa-3-cadaques-portbou-867531"
