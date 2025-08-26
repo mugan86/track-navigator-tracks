@@ -293,6 +293,158 @@
             }
         ]
     },
+     {
+        "name": "Camino de Santiago - Norte",
+        "description": "Camino Norte desde Irun (Gipuzkoa) hasta Santiago.",
+        "url": "https://es.wikiloc.com/wikiloc/user.do?id=2000065",
+        "homePath": "routes/stages/camino-santiago/norte/",
+        "count": 5,
+        "distance": 111,
+        "elevation": {
+            "plus": 1947,
+            "negative": 1700
+        },
+        "stages": [
+            {
+                "name": "1 - Irun - Pasaia",
+                "gpxUrl": "gpx/camino-santiago-ingles-01-ferrol-pontedeume_track_navigator.gpx",
+                "kmlUrl": "kml/camino-santiago-ingles-01-ferrol-pontedeume_track_navigator.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-norte-estapa-1-irun-pasaia-179360604"
+            },
+            {
+                "name": "2 - Pasaia - Donostia / San Sebastián",
+                "gpxUrl": "gpx/camino-santiago-ingles-02-pontedeume-a-betanzos_track_navigator.gpx",
+                "kmlUrl": "kml/camino-santiago-ingles-02-pontedeume-a-betanzos_track_navigator.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-norte-etapa-2-pasaia-donostia-179443777"
+            },
+            {
+                "name": "3 - Donostia / San Sebastián - Orio - Zarautz",
+                "gpxUrl": "gpx/camino-santiago-ingles-03-betanzos-san-paio-de-busc_track_navigator.gpx",
+                "kmlUrl": "kml/camino-santiago-ingles-03-betanzos-san-paio-de-busc_track_navigator.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-norte-etapa-3-donostia-orio-zarautz-179581657"
+            },
+            {
+                "name": "4 - Zarautz - Getaria - Zumaia - Deba",
+                "gpxUrl": "gpx/camino-santiago-ingles-04-san-paio-de-buscas-sigueiro_track_navigator.gpx",
+                "kmlUrl": "kml/camino-santiago-ingles-04-san-paio-de-buscas-sigueiro_track_navigator.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-norte-etapa-4-zarautz-getaria-itziar-deva-179720374"
+            },
+            {
+                "name": "5 - Deba - Markina Xemein",
+                "gpxUrl": "gpx/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.gpx",
+                "kmlUrl": "kml/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-norte-etapa-5-deva-markina-xemein-179863523"
+            },
+            {
+                "name": "6 - Markina Xemein - Ziortza Bolibar (Monasterior de Zenarruza)",
+                "gpxUrl": "gpx/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.gpx",
+                "kmlUrl": "kml/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-norte-etapa-6-markina-xemein-monasterio-de-zenarruza-179957280"
+            },
+            {
+                "name": "7 - Ziortza Bolibar (Monasterior de Zenarruza) - Gernika",
+                "gpxUrl": "gpx/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.gpx",
+                "kmlUrl": "kml/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-norte-etapa-7-monasterio-de-zenarruza-guernika-lumo-180101913"
+            },
+            {
+                "name": "8 - Gernika - Lezama",
+                "gpxUrl": "gpx/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.gpx",
+                "kmlUrl": "kml/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-norte-etapa-8-guernika-lezama-180213371"
+            },
+            {
+                "name": "9 - Lezama - Zamudio - Bilbao",
+                "gpxUrl": "gpx/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.gpx",
+                "kmlUrl": "kml/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-norte-etapa-9-lezama-zamundio-bilbao-180328583"
+            },
+            {
+                "name": "10 - Bilbao - Portugalete",
+                "gpxUrl": "gpx/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.gpx",
+                "kmlUrl": "kml/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-norte-etapa-10-bilbao-portugalete-186294210"
+            },
+            {
+                "name": "11 - Portugalete - Castro Urdiales",
+                "gpxUrl": "gpx/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.gpx",
+                "kmlUrl": "kml/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-norte-etapa-11-portugalete-castro-urdiales-186424865"
+            },
+            {
+                "name": "12 - Castro Urdiales - Laredo",
+                "gpxUrl": "gpx/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.gpx",
+                "kmlUrl": "kml/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-norte-etapa-12-castro-urdiales-laredo-186624594"
+            },
+            {
+                "name": "13 - Laredo - Guemes",
+                "gpxUrl": "gpx/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.gpx",
+                "kmlUrl": "kml/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-norte-etapa-13-laredo-guemes-186733483"
+            },
+            {
+                "name": "14 - Guemes -  Santander",
+                "gpxUrl": "gpx/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.gpx",
+                "kmlUrl": "kml/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-norte-etapa-14-guemes-santander-186816875"
+            },
+            {
+                "name": "15 - Santander - Mogro",
+                "gpxUrl": "gpx/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.gpx",
+                "kmlUrl": "kml/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-norte-etapa-15-santander-mogro-186913264"
+            },
+            {
+                "name": "16 - Mogro - Santillana del Mar",
+                "gpxUrl": "gpx/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.gpx",
+                "kmlUrl": "kml/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-norte-etapa-16-mogro-santillana-del-mar-186996022"
+            },
+            {
+                "name": "17 - Santillana del Mar - Comillas",
+                "gpxUrl": "gpx/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.gpx",
+                "kmlUrl": "kml/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-norte-etapa-17-santillana-del-mar-comillas-187102547"
+            },
+            {
+                "name": "18 - Comillas - Colombres",
+                "gpxUrl": "gpx/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.gpx",
+                "kmlUrl": "kml/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-norte-etapa-18-comillas-colombres-187233924"
+            },
+            {
+                "name": "19 - Colombres - Llanes",
+                "gpxUrl": "gpx/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.gpx",
+                "kmlUrl": "kml/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-del-norte-colombres-llanes-135844224"
+            },
+            {
+                "name": "20 - Llanes - Nueva",
+                "gpxUrl": "gpx/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.gpx",
+                "kmlUrl": "kml/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-norte-etapa-20-llanes-nueva-207295514"
+            },
+            {
+                "name": "21 - Nueva - Ribadesella",
+                "gpxUrl": "gpx/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.gpx",
+                "kmlUrl": "kml/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-norte-etapa-21-nueva-ribadesella-207404625"
+            },
+            {
+                "name": "22 - Colombres - Llanes",
+                "gpxUrl": "gpx/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.gpx",
+                "kmlUrl": "kml/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-del-norte-colombres-llanes-135844224"
+            },
+            {
+                "name": "23 - Llanes - Nueva",
+                "gpxUrl": "gpx/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.gpx",
+                "kmlUrl": "kml/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-norte-etapa-20-llanes-nueva-207295514"
+            }
+        ]
+    },
     {
         "name": "Costa Brava Xtrem Running Challenge",
         "description": "Desde Blanes a Port Bou en 3 etapas interesantes y divertidas",
