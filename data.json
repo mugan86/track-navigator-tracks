@@ -432,16 +432,124 @@
                 "original": "https://es.wikiloc.com/rutas-senderismo/camino-norte-etapa-21-nueva-ribadesella-207404625"
             },
             {
-                "name": "22 - Colombres - Llanes",
+                "name": "22 - Ribadesella - Colunga",
                 "gpxUrl": "gpx/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.gpx",
                 "kmlUrl": "kml/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.kml",
-                "original": "https://es.wikiloc.com/rutas-senderismo/camino-del-norte-colombres-llanes-135844224"
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-norte-etapa-22-ribadesella-colunga-207552070"
             },
             {
-                "name": "23 - Llanes - Nueva",
+                "name": "23 - Colunga - Villaviciosa",
                 "gpxUrl": "gpx/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.gpx",
                 "kmlUrl": "kml/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.kml",
-                "original": "https://es.wikiloc.com/rutas-senderismo/camino-norte-etapa-20-llanes-nueva-207295514"
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-norte-etapa-23-colunga-villaviciosa-207731545"
+            },
+            {
+                "name": "24 - Villaviciosa - Deva",
+                "gpxUrl": "gpx/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.gpx",
+                "kmlUrl": "kml/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-norte-etapa-24-villaviciosa-deva-207950898"
+            },
+            {
+                "name": "25 - Deva - Gijón",
+                "gpxUrl": "gpx/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.gpx",
+                "kmlUrl": "kml/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-norte-etapa-25-deva-gijon-208042038"
+            },
+            {
+                "name": "26 - Gijón - Avilés",
+                "gpxUrl": "gpx/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.gpx",
+                "kmlUrl": "kml/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-norte-etapa-26-gijon-aviles-208189654"
+            },
+            {
+                "name": "27 - Avilés -  Muros de Nalón",
+                "gpxUrl": "gpx/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.gpx",
+                "kmlUrl": "kml/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-de-santiago-del-norte-etapa-aviles-muros-de-nalon-143629059"
+            },
+            {
+                "name": "28 - Muros de Nalón  - Soto de Luiña",
+                "gpxUrl": "gpx/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.gpx",
+                "kmlUrl": "kml/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-norte-etapa-28-muros-de-nalon-soto-de-luina-218630603"
+            },
+            {
+                "name": "29 - Soto de Luiña - Cadavedo",
+                "gpxUrl": "gpx/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.gpx",
+                "kmlUrl": "kml/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-norte-etapa-29-sotos-de-luina-cadavedo-218775057"
+            },
+            {
+                "name": "30 - Cadavedo - Luarca",
+                "gpxUrl": "gpx/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.gpx",
+                "kmlUrl": "kml/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-norte-etapa-30-cadavedo-luarca-218904915"
+            },
+            {
+                "name": "31 - Luarca - Navia",
+                "gpxUrl": "gpx/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.gpx",
+                "kmlUrl": "kml/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-norte-etapa-31-luarca-navia-219075671"
+            },
+            {
+                "name": "32 - Navia - La Caridad",
+                "gpxUrl": "gpx/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.gpx",
+                "kmlUrl": "kml/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-norte-etapa-32-navia-la-caridad-219217705"
+            },
+            {
+                "name": "33 - La Caridad - Ribadeo",
+                "gpxUrl": "gpx/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.gpx",
+                "kmlUrl": "kml/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-norte-etapa-33-la-caridad-ribadeo-219351192"
+            },
+            {
+                "name": "34 - Ribadeo - Vilanova Lourenza",
+                "gpxUrl": "gpx/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.gpx",
+                "kmlUrl": "kml/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-norte-etapa-34-ribadeo-vilanova-lourenza-219468280"
+            },
+            {
+                "name": "35 - Vilanova Lourenza - Abadin",
+                "gpxUrl": "gpx/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.gpx",
+                "kmlUrl": "kml/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-norte-etapa-35-vilanova-lourenza-abadin-219579262"
+            },
+            {
+                "name": "36 - Abadin - Villalba",
+                "gpxUrl": "gpx/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.gpx",
+                "kmlUrl": "kml/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-norte-etapa-36-abadin-vilalba-219685742"
+            },
+            {
+                "name": "37 - Villalba - Baamonde",
+                "gpxUrl": "gpx/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.gpx",
+                "kmlUrl": "kml/camino-santiago-ingles-05-sigueiro-santiag_track_navigator.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/villalba-baamonde-camino-norte-santiago-2024-173633480"
+            },
+            {
+                "name": "38 - Baamonde - Albergue A Cabana",
+                "gpxUrl": "",
+                "kmlUrl": "",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-del-norte-33-baamonde-albergue-a-cabana-101745015"
+            },
+            {
+                "name": "39 - Albergue A Cabana - Arzúa",
+                "gpxUrl": "",
+                "kmlUrl": "",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-del-norte-34-albergue-a-cabana-arzua-101824495"
+            },
+            {
+                "name": "40 - Arzúa - O Pedrouzo",
+                "gpxUrl": "gpx/camino-de-santiago-31-arzua-o-pedrouzo-_track_navigator.gpx",
+                "kmlUrl": "kml/camino-de-santiago-31-arzua-o-pedrouzo-_track_navigator.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-de-santiago-32-arzua-o-pedrouzo-102031577"
+            },
+            {
+                "name": "41 - O Pedrouzo - Santiago de Compostela",
+                "gpxUrl": "gpx/camino-de-santiago-32-o-pedrouzo-santiago-de-compostela_track_navigator.gpx",
+                "kmlUrl": "kml/camino-de-santiago-32-o-pedrouzo-santiago-de-compostela_track_navigator.kml",
+                "original": "https://es.wikiloc.com/rutas-senderismo/camino-de-santiago-33-o-pedrouzo-santiago-de-compostela-102289177"
             }
         ]
     },
